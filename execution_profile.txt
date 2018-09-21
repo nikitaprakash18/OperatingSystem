@@ -1,0 +1,5064 @@
+JobID:  4   (DECIMAL)
+Input-Data Segment: JOBID: 0004   (HEX)
+(HEX)
+Output-Data Segment: JOBID: 0004   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  50  (HEX)
+JOB END time:  193  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  29f  (HEX)
+EXECUTION TIME:  72  (DECIMAL)
+IO TIME:  67  (DECIMAL)
+Page-fault handling time: 260 (DECIMAL)
+Segment-fault handling time: 5 (DECIMAL)
+Turn-around time:  323  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  3   (DECIMAL)
+Input-Data Segment: JOBID: 0003   (HEX)
+0005   000d   0000   (HEX)
+Output-Data Segment: JOBID: 0003   (HEX)
+                     0000001011111111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  193  (HEX)
+JOB END time:  1350  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  17b0  (HEX)
+EXECUTION TIME:  307  (DECIMAL)
+IO TIME:  4205  (DECIMAL)
+Page-fault handling time: 430 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  4541  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  2   (DECIMAL)
+Input-Data Segment: JOBID: 0002   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 0002   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1350  (HEX)
+JOB END time:  43d4  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  5dc8  (HEX)
+EXECUTION TIME:  422  (DECIMAL)
+IO TIME:  16381  (DECIMAL)
+Page-fault handling time: 560 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  12420  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  1   (DECIMAL)
+Input-Data Segment: JOBID: 0001   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 0001   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  43d5  (HEX)
+JOB END time:  277bd  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  1bf28  (HEX)
+EXECUTION TIME:  494  (DECIMAL)
+IO TIME:  88469  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  144360  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  4   (DECIMAL)
+Input-Data Segment: JOBID: 0004   (HEX)
+(HEX)
+Output-Data Segment: JOBID: 0004   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  277bd  (HEX)
+JOB END time:  277cd  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  32099  (HEX)
+EXECUTION TIME:  495  (DECIMAL)
+IO TIME:  88485  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  3   (DECIMAL)
+Input-Data Segment: JOBID: 0003   (HEX)
+0005   000d   0000   (HEX)
+Output-Data Segment: JOBID: 0003   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  277cd  (HEX)
+JOB END time:  277e1  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  4821f  (HEX)
+EXECUTION TIME:  500  (DECIMAL)
+IO TIME:  88501  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  1   (DECIMAL)
+Input-Data Segment: JOBID: 0001   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 0001   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  277e2  (HEX)
+JOB END time:  277f2  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  5e3b6  (HEX)
+EXECUTION TIME:  501  (DECIMAL)
+IO TIME:  88517  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  4   (DECIMAL)
+Input-Data Segment: JOBID: 0004   (HEX)
+(HEX)
+Output-Data Segment: JOBID: 0004   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  277f2  (HEX)
+JOB END time:  27802  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  7455e  (HEX)
+EXECUTION TIME:  502  (DECIMAL)
+IO TIME:  88533  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  1   (DECIMAL)
+Input-Data Segment: JOBID: 0001   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 0001   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  27802  (HEX)
+JOB END time:  27812  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  8a717  (HEX)
+EXECUTION TIME:  503  (DECIMAL)
+IO TIME:  88549  (DECIMAL)
+Page-fault handling time: 740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  8   (DECIMAL)
+Input-Data Segment: JOBID: 0008   (HEX)
+0003   00cd   (HEX)
+Output-Data Segment: JOBID: 0008   (HEX)
+                     0000000011001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  27864  (HEX)
+JOB END time:  251642  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  2ca7ff  (HEX)
+EXECUTION TIME:  646  (DECIMAL)
+IO TIME:  2356881  (DECIMAL)
+Page-fault handling time: 990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2268638  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  7   (DECIMAL)
+Input-Data Segment: JOBID: 0007   (HEX)
+0014   (HEX)
+Output-Data Segment: JOBID: 0007   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  251642  (HEX)
+JOB END time:  7e67b4  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a9fadc  (HEX)
+EXECUTION TIME:  841  (DECIMAL)
+IO TIME:  8210111  (DECIMAL)
+Page-fault handling time: 1120 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  5853554  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  6   (DECIMAL)
+Input-Data Segment: JOBID: 0006   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 0006   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7e67b5  (HEX)
+JOB END time:  326542d  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  27b44fd  (HEX)
+EXECUTION TIME:  929  (DECIMAL)
+IO TIME:  30489767  (DECIMAL)
+Page-fault handling time: 1250 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  44559480  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  6   (DECIMAL)
+Input-Data Segment: JOBID: 0006   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 0006   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7e67b5  (HEX)
+JOB END time:  326543d  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  44c8f2e  (HEX)
+EXECUTION TIME:  929  (DECIMAL)
+IO TIME:  30489783  (DECIMAL)
+Page-fault handling time: 1250 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  44559496  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  5   (DECIMAL)
+Input-Data Segment: JOBID: 0005   (HEX)
+0007   (HEX)
+Output-Data Segment: JOBID: 0005   (HEX)
+                     0000000010000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  326543d  (HEX)
+JOB END time:  772e4ed  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a6a6a57  (HEX)
+EXECUTION TIME:  1215  (DECIMAL)
+IO TIME:  102616069  (DECIMAL)
+Page-fault handling time: 1320 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  72126640  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  8   (DECIMAL)
+Input-Data Segment: JOBID: 0008   (HEX)
+0003   00cd   (HEX)
+Output-Data Segment: JOBID: 0008   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  772e4ed  (HEX)
+JOB END time:  772e501  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  10884595  (HEX)
+EXECUTION TIME:  1220  (DECIMAL)
+IO TIME:  102616085  (DECIMAL)
+Page-fault handling time: 1320 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  6   (DECIMAL)
+Input-Data Segment: JOBID: 0006   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 0006   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  772e502  (HEX)
+JOB END time:  772e512  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  16a620e4  (HEX)
+EXECUTION TIME:  1221  (DECIMAL)
+IO TIME:  102616101  (DECIMAL)
+Page-fault handling time: 1320 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  12   (DECIMAL)
+Input-Data Segment: JOBID: 00012   (HEX)
+0003   0010   (HEX)
+Output-Data Segment: JOBID: 00012   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  772e573  (HEX)
+JOB END time:  620b7ed7  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  775c9bbc  (HEX)
+EXECUTION TIME:  1351  (DECIMAL)
+IO TIME:  1622566113  (DECIMAL)
+Page-fault handling time: 1460 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1519950180  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  11   (DECIMAL)
+Input-Data Segment: JOBID: 00011   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00011   (HEX)
+                     0000010000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  620b7ed8  (HEX)
+JOB END time:  d9681c82  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  4f6faf53  (HEX)
+EXECUTION TIME:  1745  (DECIMAL)
+IO TIME:  -669843267  (DECIMAL)
+Page-fault handling time: 1530 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2002558378  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  10   (DECIMAL)
+Input-Data Segment: JOBID: 00010   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00010   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d9681c82  (HEX)
+JOB END time:  78477c64  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  c6622347  (HEX)
+EXECUTION TIME:  1896  (DECIMAL)
+IO TIME:  1995595667  (DECIMAL)
+Page-fault handling time: 1650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1629528094  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  9   (DECIMAL)
+Input-Data Segment: JOBID: 0009   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 0009   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  78477c64  (HEX)
+JOB END time:  58322dab  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3b6bb8c  (HEX)
+EXECUTION TIME:  2050  (DECIMAL)
+IO TIME:  1028948730  (DECIMAL)
+Page-fault handling time: 1690 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -538267321  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  10   (DECIMAL)
+Input-Data Segment: JOBID: 00010   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00010   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  58322dad  (HEX)
+JOB END time:  58322dbd  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  410b53e3  (HEX)
+EXECUTION TIME:  2052  (DECIMAL)
+IO TIME:  1028948746  (DECIMAL)
+Page-fault handling time: 1690 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  10   (DECIMAL)
+Input-Data Segment: JOBID: 00010   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00010   (HEX)
+                     0000000001010001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  58322dbd  (HEX)
+JOB END time:  58322dcd  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  7e5fec4b  (HEX)
+EXECUTION TIME:  2053  (DECIMAL)
+IO TIME:  1028948762  (DECIMAL)
+Page-fault handling time: 1690 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  16   (DECIMAL)
+Input-Data Segment: JOBID: 00016   (HEX)
+0005   000f   0001   (HEX)
+Output-Data Segment: JOBID: 00016   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  58322e1e  (HEX)
+JOB END time:  4e71b950  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b1f410c9  (HEX)
+EXECUTION TIME:  2257  (DECIMAL)
+IO TIME:  865340748  (DECIMAL)
+Page-fault handling time: 1830 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -163607758  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  15   (DECIMAL)
+Input-Data Segment: JOBID: 00015   (HEX)
+0002   (HEX)
+Output-Data Segment: JOBID: 00015   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4e71b951  (HEX)
+JOB END time:  b259db6d  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  977c46c3  (HEX)
+EXECUTION TIME:  2324  (DECIMAL)
+IO TIME:  -444064203  (DECIMAL)
+Page-fault handling time: 1870 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1676157468  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  b259db6e  (HEX)
+JOB END time:  49d622eb  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  1480c496  (HEX)
+EXECUTION TIME:  2390  (DECIMAL)
+IO TIME:  2097440024  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1753462915  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d622eb  (HEX)
+JOB END time:  49d6232b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  918542aa  (HEX)
+EXECUTION TIME:  2439  (DECIMAL)
+IO TIME:  2097440040  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d6232b  (HEX)
+JOB END time:  49d6236b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  e89c0ff  (HEX)
+EXECUTION TIME:  2488  (DECIMAL)
+IO TIME:  2097440056  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d6236b  (HEX)
+JOB END time:  49d623ab  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  8b8e3f95  (HEX)
+EXECUTION TIME:  2537  (DECIMAL)
+IO TIME:  2097440072  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d623ab  (HEX)
+JOB END time:  49d623eb  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  892be6c  (HEX)
+EXECUTION TIME:  2586  (DECIMAL)
+IO TIME:  2097440088  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d623eb  (HEX)
+JOB END time:  49d6242b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  85973d84  (HEX)
+EXECUTION TIME:  2635  (DECIMAL)
+IO TIME:  2097440104  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000010101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d6242b  (HEX)
+JOB END time:  49d6246b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  29bbcdd  (HEX)
+EXECUTION TIME:  2684  (DECIMAL)
+IO TIME:  2097440120  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000100010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d6246b  (HEX)
+JOB END time:  49d624ab  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  7fa03c77  (HEX)
+EXECUTION TIME:  2733  (DECIMAL)
+IO TIME:  2097440136  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000000110111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d624ab  (HEX)
+JOB END time:  49d624eb  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  fca4bc52  (HEX)
+EXECUTION TIME:  2782  (DECIMAL)
+IO TIME:  2097440152  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  14   (DECIMAL)
+Input-Data Segment: JOBID: 00014   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00014   (HEX)
+                     0000000001011001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d624eb  (HEX)
+JOB END time:  49d6252b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  79a93c6e  (HEX)
+EXECUTION TIME:  2831  (DECIMAL)
+IO TIME:  2097440168  (DECIMAL)
+Page-fault handling time: 1960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  20   (DECIMAL)
+Input-Data Segment: JOBID: 00020   (HEX)
+0004   000b   0001   (HEX)
+Output-Data Segment: JOBID: 00020   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  49d62590  (HEX)
+JOB END time:  aa2454f2  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  56fbece3  (HEX)
+EXECUTION TIME:  3018  (DECIMAL)
+IO TIME:  -581790674  (DECIMAL)
+Page-fault handling time: 2100 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1615736674  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  19   (DECIMAL)
+Input-Data Segment: JOBID: 00019   (HEX)
+0003   0001   (HEX)
+Output-Data Segment: JOBID: 00019   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  aa2454f3  (HEX)
+JOB END time:  6140a09  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  903e531d  (HEX)
+EXECUTION TIME:  3167  (DECIMAL)
+IO TIME:  960645130  (DECIMAL)
+Page-fault handling time: 2270 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1542436118  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  17   (DECIMAL)
+Input-Data Segment: JOBID: 00017   (HEX)
+0010   0001   001e   (HEX)
+Output-Data Segment: JOBID: 00017   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6140a09  (HEX)
+JOB END time:  1c2a2b80  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  9ab85d62  (HEX)
+EXECUTION TIME:  3797  (DECIMAL)
+IO TIME:  175761403  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  370549111  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  19   (DECIMAL)
+Input-Data Segment: JOBID: 00019   (HEX)
+0003   0001   (HEX)
+Output-Data Segment: JOBID: 00019   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2b80  (HEX)
+JOB END time:  1c2a2b94  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  a53267bc  (HEX)
+EXECUTION TIME:  3802  (DECIMAL)
+IO TIME:  175761419  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  17   (DECIMAL)
+Input-Data Segment: JOBID: 00017   (HEX)
+0010   0001   001e   (HEX)
+Output-Data Segment: JOBID: 00017   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2b95  (HEX)
+JOB END time:  1c2a2ba5  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  afac7227  (HEX)
+EXECUTION TIME:  3803  (DECIMAL)
+IO TIME:  175761435  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  17   (DECIMAL)
+Input-Data Segment: JOBID: 00017   (HEX)
+0010   0001   001e   (HEX)
+Output-Data Segment: JOBID: 00017   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2ba5  (HEX)
+JOB END time:  1c2a2bb5  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  ba267ca3  (HEX)
+EXECUTION TIME:  3804  (DECIMAL)
+IO TIME:  175761451  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  17   (DECIMAL)
+Input-Data Segment: JOBID: 00017   (HEX)
+0010   0001   001e   (HEX)
+Output-Data Segment: JOBID: 00017   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2bb5  (HEX)
+JOB END time:  1c2a2bc5  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  c4a08730  (HEX)
+EXECUTION TIME:  3805  (DECIMAL)
+IO TIME:  175761467  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  17   (DECIMAL)
+Input-Data Segment: JOBID: 00017   (HEX)
+0010   0001   001e   (HEX)
+Output-Data Segment: JOBID: 00017   (HEX)
+                     0000000000011110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2bc5  (HEX)
+JOB END time:  1c2a2bd5  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  cf1a91ce  (HEX)
+EXECUTION TIME:  3806  (DECIMAL)
+IO TIME:  175761483  (DECIMAL)
+Page-fault handling time: 2480 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  24   (DECIMAL)
+Input-Data Segment: JOBID: 00024   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00024   (HEX)
+                     0000000111110000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c2a2c26  (HEX)
+JOB END time:  3061d808  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  a8af32d7  (HEX)
+EXECUTION TIME:  4715  (DECIMAL)
+IO TIME:  -644580807  (DECIMAL)
+Page-fault handling time: 2600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  339192802  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  23   (DECIMAL)
+Input-Data Segment: JOBID: 00023   (HEX)
+0007   000b   0567   00e1   (HEX)
+Output-Data Segment: JOBID: 00023   (HEX)
+                     0000010101100111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3061d809  (HEX)
+JOB END time:  75db7133  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  c7bd6dbd  (HEX)
+EXECUTION TIME:  5036  (DECIMAL)
+IO TIME:  521015681  (DECIMAL)
+Page-fault handling time: 2770 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1165596970  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  22   (DECIMAL)
+Input-Data Segment: JOBID: 00022   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00022   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  75db7133  (HEX)
+JOB END time:  4341bc4b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  76468654  (HEX)
+EXECUTION TIME:  5295  (DECIMAL)
+IO TIME:  -1366758101  (DECIMAL)
+Page-fault handling time: 2900 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -848934120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  22   (DECIMAL)
+Input-Data Segment: JOBID: 00022   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00022   (HEX)
+                     0000000100000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  75db7133  (HEX)
+JOB END time:  4341bc5b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  24cf9efb  (HEX)
+EXECUTION TIME:  5295  (DECIMAL)
+IO TIME:  -1366758085  (DECIMAL)
+Page-fault handling time: 2900 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -848934104  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  21   (DECIMAL)
+Input-Data Segment: JOBID: 00021   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00021   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4341bc5b  (HEX)
+JOB END time:  fb4fd946  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  41c797a9  (HEX)
+EXECUTION TIME:  5481  (DECIMAL)
+IO TIME:  486001260  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1207034645  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 26job-id: 23job-id: 25job-id: 22JobID:  23   (DECIMAL)
+Input-Data Segment: JOBID: 00023   (HEX)
+0007   000b   0567   00e1   (HEX)
+Output-Data Segment: JOBID: 00023   (HEX)
+                     0000000000001011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fb4fd946  (HEX)
+JOB END time:  fb4fd95a  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  5ebf906c  (HEX)
+EXECUTION TIME:  5486  (DECIMAL)
+IO TIME:  486001276  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  22   (DECIMAL)
+Input-Data Segment: JOBID: 00022   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00022   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fb4fd95b  (HEX)
+JOB END time:  fb4fd96b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  7bb78940  (HEX)
+EXECUTION TIME:  5487  (DECIMAL)
+IO TIME:  486001292  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  21   (DECIMAL)
+Input-Data Segment: JOBID: 00021   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00021   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fb4fd97b  (HEX)
+JOB END time:  fb4fd98f  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  98af8ea6  (HEX)
+EXECUTION TIME:  5492  (DECIMAL)
+IO TIME:  486001324  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  21   (DECIMAL)
+Input-Data Segment: JOBID: 00021   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00021   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fb4fd98f  (HEX)
+JOB END time:  fb4fd9a3  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  b5a787b4  (HEX)
+EXECUTION TIME:  5497  (DECIMAL)
+IO TIME:  486001340  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  28   (DECIMAL)
+Input-Data Segment: JOBID: 00028   (HEX)
+0003   0002   (HEX)
+Output-Data Segment: JOBID: 00028   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fb4fd9f4  (HEX)
+JOB END time:  d1edfa42  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  a93da260  (HEX)
+EXECUTION TIME:  5635  (DECIMAL)
+IO TIME:  -208279076  (DECIMAL)
+Page-fault handling time: 3420 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -694280114  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 27job-id: 26job-id: 28job-id: 25job-id: 24JobID:  27   (DECIMAL)
+Input-Data Segment: JOBID: 00027   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00027   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d1edfa42  (HEX)
+JOB END time:  7b2b9d5c  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  46116082  (HEX)
+EXECUTION TIME:  5701  (DECIMAL)
+IO TIME:  -1663857572  (DECIMAL)
+Page-fault handling time: 3510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1455578342  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  26   (DECIMAL)
+Input-Data Segment: JOBID: 00026   (HEX)
+0014   0001   0e1e   (HEX)
+Output-Data Segment: JOBID: 00026   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7b2b9d5c  (HEX)
+JOB END time:  52de0db0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  413c05a8  (HEX)
+EXECUTION TIME:  6331  (DECIMAL)
+IO TIME:  -81105082  (DECIMAL)
+Page-fault handling time: 3720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -676171692  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  28   (DECIMAL)
+Input-Data Segment: JOBID: 00028   (HEX)
+0003   0002   (HEX)
+Output-Data Segment: JOBID: 00028   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea596b  (HEX)
+JOB END time:  a2ea597f  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  bedeb942  (HEX)
+EXECUTION TIME:  6647  (DECIMAL)
+IO TIME:  2107800262  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  27   (DECIMAL)
+Input-Data Segment: JOBID: 00027   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00027   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5980  (HEX)
+JOB END time:  a2ea59c0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  3c816d1d  (HEX)
+EXECUTION TIME:  6696  (DECIMAL)
+IO TIME:  2107800278  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  26   (DECIMAL)
+Input-Data Segment: JOBID: 00026   (HEX)
+0014   0001   0e1e   (HEX)
+Output-Data Segment: JOBID: 00026   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea59c0  (HEX)
+JOB END time:  a2ea59d0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  ba242109  (HEX)
+EXECUTION TIME:  6697  (DECIMAL)
+IO TIME:  2107800294  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  27   (DECIMAL)
+Input-Data Segment: JOBID: 00027   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00027   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea59d0  (HEX)
+JOB END time:  a2ea5a10  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  37c6d536  (HEX)
+EXECUTION TIME:  6746  (DECIMAL)
+IO TIME:  2107800310  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  26   (DECIMAL)
+Input-Data Segment: JOBID: 00026   (HEX)
+0014   0001   0e1e   (HEX)
+Output-Data Segment: JOBID: 00026   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5a10  (HEX)
+JOB END time:  a2ea5a20  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  b5698974  (HEX)
+EXECUTION TIME:  6747  (DECIMAL)
+IO TIME:  2107800326  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  27   (DECIMAL)
+Input-Data Segment: JOBID: 00027   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00027   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5a20  (HEX)
+JOB END time:  a2ea5a60  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  330c3df3  (HEX)
+EXECUTION TIME:  6796  (DECIMAL)
+IO TIME:  2107800342  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  26   (DECIMAL)
+Input-Data Segment: JOBID: 00026   (HEX)
+0014   0001   0e1e   (HEX)
+Output-Data Segment: JOBID: 00026   (HEX)
+                     0000000000010100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5a60  (HEX)
+JOB END time:  a2ea5a70  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  b0aef283  (HEX)
+EXECUTION TIME:  6797  (DECIMAL)
+IO TIME:  2107800358  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 30job-id: 27JobID:  27   (DECIMAL)
+Input-Data Segment: JOBID: 00027   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00027   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5a70  (HEX)
+JOB END time:  a2ea5ab0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  2e51a754  (HEX)
+EXECUTION TIME:  6846  (DECIMAL)
+IO TIME:  2107800374  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 29job-id: 26JobID:  26   (DECIMAL)
+Input-Data Segment: JOBID: 00026   (HEX)
+0014   0001   0e1e   (HEX)
+Output-Data Segment: JOBID: 00026   (HEX)
+                     0000111000011110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5ab0  (HEX)
+JOB END time:  a2ea5ac0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  abf45c36  (HEX)
+EXECUTION TIME:  6847  (DECIMAL)
+IO TIME:  2107800390  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  32   (DECIMAL)
+Input-Data Segment: JOBID: 00032   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00032   (HEX)
+                     0000000000000111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a2ea5b26  (HEX)
+JOB END time:  aaa485a2  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  2d742860  (HEX)
+EXECUTION TIME:  6941  (DECIMAL)
+IO TIME:  -2122346456  (DECIMAL)
+Page-fault handling time: 4200 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  129641084  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  aaa485a2  (HEX)
+JOB END time:  d818ae8a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  dc681db0  (HEX)
+EXECUTION TIME:  6987  (DECIMAL)
+IO TIME:  -1359759192  (DECIMAL)
+Page-fault handling time: 4260 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  762587368  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000001000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d818ae8a  (HEX)
+JOB END time:  90e8eb37  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  67c43277  (HEX)
+EXECUTION TIME:  7170  (DECIMAL)
+IO TIME:  -1956915592  (DECIMAL)
+Page-fault handling time: 4380 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1194312531  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  29   (DECIMAL)
+Input-Data Segment: JOBID: 00029   (HEX)
+000a   000b   (HEX)
+Output-Data Segment: JOBID: 00029   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  90e8eb37  (HEX)
+JOB END time:  97bde992  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  2a6ce1bd  (HEX)
+EXECUTION TIME:  7360  (DECIMAL)
+IO TIME:  -1029149155  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  114622043  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  32   (DECIMAL)
+Input-Data Segment: JOBID: 00032   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00032   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  97bde992  (HEX)
+JOB END time:  97bde9a2  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  ed159114  (HEX)
+EXECUTION TIME:  7361  (DECIMAL)
+IO TIME:  -1029149139  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  97bde9a2  (HEX)
+JOB END time:  84d37afb  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  afbe40b1  (HEX)
+EXECUTION TIME:  7415  (DECIMAL)
+IO TIME:  -1029149123  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -317353639  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  84d37afb  (HEX)
+JOB END time:  3491bc69  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  7266f10c  (HEX)
+EXECUTION TIME:  7589  (DECIMAL)
+IO TIME:  -1029149107  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1346485906  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  29   (DECIMAL)
+Input-Data Segment: JOBID: 00029   (HEX)
+000a   000b   (HEX)
+Output-Data Segment: JOBID: 00029   (HEX)
+                     0000000000001011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3491bc69  (HEX)
+JOB END time:  3491bc7d  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  350fa17c  (HEX)
+EXECUTION TIME:  7594  (DECIMAL)
+IO TIME:  -1029149091  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  32   (DECIMAL)
+Input-Data Segment: JOBID: 00032   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00032   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3491bc7d  (HEX)
+JOB END time:  3491bc8d  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  f7b851fd  (HEX)
+EXECUTION TIME:  7595  (DECIMAL)
+IO TIME:  -1029149075  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 31job-id: 30job-id: 32job-id: 29job-id: 28JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3491bc8d  (HEX)
+JOB END time:  2c4a0ecf  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ba6102c4  (HEX)
+EXECUTION TIME:  7649  (DECIMAL)
+IO TIME:  -1029149059  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -138915262  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2c4a0ecf  (HEX)
+JOB END time:  e6ab1238  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  7d09b431  (HEX)
+EXECUTION TIME:  7799  (DECIMAL)
+IO TIME:  -1029149043  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1168047255  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  29   (DECIMAL)
+Input-Data Segment: JOBID: 00029   (HEX)
+000a   000b   (HEX)
+Output-Data Segment: JOBID: 00029   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e6ab1238  (HEX)
+JOB END time:  e6ab124c  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  3fb265b3  (HEX)
+EXECUTION TIME:  7804  (DECIMAL)
+IO TIME:  -1029149027  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e6ab124d  (HEX)
+JOB END time:  265d7845  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  25b177c  (HEX)
+EXECUTION TIME:  7859  (DECIMAL)
+IO TIME:  -1029149011  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1068656120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  265d7845  (HEX)
+JOB END time:  28b8904e  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  c503c9d3  (HEX)
+EXECUTION TIME:  7985  (DECIMAL)
+IO TIME:  -1029148995  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  39524361  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  28b8904f  (HEX)
+JOB END time:  edbc5a67  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  87ac7c71  (HEX)
+EXECUTION TIME:  8040  (DECIMAL)
+IO TIME:  -1029148979  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -989607400  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  edbc5a67  (HEX)
+JOB END time:  7568d74d  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  4a552f85  (HEX)
+EXECUTION TIME:  8142  (DECIMAL)
+IO TIME:  -1029148963  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2018738970  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7568d74d  (HEX)
+JOB END time:  bfbe0717  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  cfde2df  (HEX)
+EXECUTION TIME:  8196  (DECIMAL)
+IO TIME:  -1029148947  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1247096778  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  30   (DECIMAL)
+Input-Data Segment: JOBID: 00030   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00030   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bfbe0717  (HEX)
+JOB END time:  ccbbea53  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  cfa69697  (HEX)
+EXECUTION TIME:  8274  (DECIMAL)
+IO TIME:  -1029148931  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  217965372  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 34job-id: 31JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ccbbea53  (HEX)
+JOB END time:  9c62812f  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  924f4a95  (HEX)
+EXECUTION TIME:  8328  (DECIMAL)
+IO TIME:  -1029148915  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -811165988  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  9c628150  (HEX)
+JOB END time:  2eb1cc2a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  54f7fefa  (HEX)
+EXECUTION TIME:  8415  (DECIMAL)
+IO TIME:  -1029148899  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1840297254  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2eb1cc2a  (HEX)
+JOB END time:  83a9cb69  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  17a0b3a5  (HEX)
+EXECUTION TIME:  8469  (DECIMAL)
+IO TIME:  -1029148883  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1425538879  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  83a9cb69  (HEX)
+JOB END time:  9b4a7f53  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  da496896  (HEX)
+EXECUTION TIME:  8523  (DECIMAL)
+IO TIME:  -1029148867  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  396407786  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  9b4a7f53  (HEX)
+JOB END time:  7593e82e  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9cf21dcd  (HEX)
+EXECUTION TIME:  8577  (DECIMAL)
+IO TIME:  -1029148851  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -632723237  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7593e82e  (HEX)
+JOB END time:  12860640  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  5f9ad34a  (HEX)
+EXECUTION TIME:  8631  (DECIMAL)
+IO TIME:  -1029148835  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1661854190  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  12860640  (HEX)
+JOB END time:  7220d9cf  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2243890d  (HEX)
+EXECUTION TIME:  8685  (DECIMAL)
+IO TIME:  -1029148819  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1603982223  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7220d9cf  (HEX)
+JOB END time:  94646321  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e4ec3f16  (HEX)
+EXECUTION TIME:  8739  (DECIMAL)
+IO TIME:  -1029148803  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  574851410  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  94646321  (HEX)
+JOB END time:  7950a27c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  a794f565  (HEX)
+EXECUTION TIME:  8793  (DECIMAL)
+IO TIME:  -1029148787  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -454279333  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  31   (DECIMAL)
+Input-Data Segment: JOBID: 00031   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00031   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7950a27c  (HEX)
+JOB END time:  20e59826  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6a3dabfa  (HEX)
+EXECUTION TIME:  8847  (DECIMAL)
+IO TIME:  -1029148771  (DECIMAL)
+Page-fault handling time: 4650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1483410006  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  36   (DECIMAL)
+Input-Data Segment: JOBID: 00036   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00036   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b23448a  (HEX)
+JOB END time:  5f9e9d8a  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  161bcc4  (HEX)
+EXECUTION TIME:  8976  (DECIMAL)
+IO TIME:  -1759262783  (DECIMAL)
+Page-fault handling time: 4850 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -730113792  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  35   (DECIMAL)
+Input-Data Segment: JOBID: 00035   (HEX)
+0004   0000   0001   (HEX)
+Output-Data Segment: JOBID: 00035   (HEX)
+                     0100000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5f9e9d8a  (HEX)
+JOB END time:  66874e9a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9f6e7ee0  (HEX)
+EXECUTION TIME:  9142  (DECIMAL)
+IO TIME:  -1643350027  (DECIMAL)
+Page-fault handling time: 4910 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  115912976  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 34job-id: 33job-id: 35job-id: 36job-id: 35JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  66874e9b  (HEX)
+JOB END time:  5f5ce03  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  dce9c0a2  (HEX)
+EXECUTION TIME:  9188  (DECIMAL)
+IO TIME:  1031468789  (DECIMAL)
+Page-fault handling time: 4970 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1620148376  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  33   (DECIMAL)
+Input-Data Segment: JOBID: 00033   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00033   (HEX)
+                     0000000000011111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5f5ce03  (HEX)
+JOB END time:  ca2d94d7  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  f74ec498  (HEX)
+EXECUTION TIME:  9338  (DECIMAL)
+IO TIME:  442808247  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1002977580  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 39job-id: 36job-id: 37job-id: 34JobID:  33   (DECIMAL)
+Input-Data Segment: JOBID: 00033   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00033   (HEX)
+                     0000000000001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5f5ce03  (HEX)
+JOB END time:  ca2d94e7  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  11b3c89e  (HEX)
+EXECUTION TIME:  9338  (DECIMAL)
+IO TIME:  442808263  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1002977564  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 39job-id: 36job-id: 37job-id: 34JobID:  36   (DECIMAL)
+Input-Data Segment: JOBID: 00036   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00036   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ca2d94e7  (HEX)
+JOB END time:  ca2d94f7  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  2c18ccb5  (HEX)
+EXECUTION TIME:  9339  (DECIMAL)
+IO TIME:  442808279  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ca2d94f7  (HEX)
+JOB END time:  f64661f1  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  467dd112  (HEX)
+EXECUTION TIME:  9393  (DECIMAL)
+IO TIME:  442808295  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  739822842  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  36   (DECIMAL)
+Input-Data Segment: JOBID: 00036   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00036   (HEX)
+                     0000000000001001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f6466201  (HEX)
+JOB END time:  f6466211  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  60e2e974  (HEX)
+EXECUTION TIME:  9395  (DECIMAL)
+IO TIME:  442808327  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f6466211  (HEX)
+JOB END time:  57294bca  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  7b47ee39  (HEX)
+EXECUTION TIME:  9449  (DECIMAL)
+IO TIME:  442808343  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1625483705  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  57294bcb  (HEX)
+JOB END time:  d2713a49  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  95acf345  (HEX)
+EXECUTION TIME:  9504  (DECIMAL)
+IO TIME:  442808359  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2068311678  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d2713a49  (HEX)
+JOB END time:  681e2dd3  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b011f897  (HEX)
+EXECUTION TIME:  9558  (DECIMAL)
+IO TIME:  442808375  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1783827574  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  681e2dd3  (HEX)
+JOB END time:  183026af  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ca76fe2f  (HEX)
+EXECUTION TIME:  9612  (DECIMAL)
+IO TIME:  442808391  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1340999460  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  183026af  (HEX)
+JOB END time:  e2a72523  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e4dc040d  (HEX)
+EXECUTION TIME:  9666  (DECIMAL)
+IO TIME:  442808407  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -898171276  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e2a72523  (HEX)
+JOB END time:  c7832975  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ff410a31  (HEX)
+EXECUTION TIME:  9720  (DECIMAL)
+IO TIME:  442808423  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -455343022  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c7832975  (HEX)
+JOB END time:  c6c433eb  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  19a6109b  (HEX)
+EXECUTION TIME:  9774  (DECIMAL)
+IO TIME:  442808439  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -12514698  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c6c433eb  (HEX)
+JOB END time:  e06a44cb  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  340b174b  (HEX)
+EXECUTION TIME:  9828  (DECIMAL)
+IO TIME:  442808455  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  430313696  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e06a44cb  (HEX)
+JOB END time:  14755c5b  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  4e701e41  (HEX)
+EXECUTION TIME:  9882  (DECIMAL)
+IO TIME:  442808471  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  873142160  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  14755c5b  (HEX)
+JOB END time:  62e57ae1  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  68d5257d  (HEX)
+EXECUTION TIME:  9936  (DECIMAL)
+IO TIME:  442808487  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1315970694  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  62e57ae1  (HEX)
+JOB END time:  cbbaa0a3  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  833a2cff  (HEX)
+EXECUTION TIME:  9990  (DECIMAL)
+IO TIME:  442808503  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1758799298  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  cbbaa0a3  (HEX)
+JOB END time:  4ef4cde7  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9d9f34c7  (HEX)
+EXECUTION TIME:  10044  (DECIMAL)
+IO TIME:  442808519  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2093339324  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4ef4cde7  (HEX)
+JOB END time:  ec9402f3  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b8043cd5  (HEX)
+EXECUTION TIME:  10098  (DECIMAL)
+IO TIME:  442808535  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1650510580  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  34   (DECIMAL)
+Input-Data Segment: JOBID: 00034   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00034   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ec9402f3  (HEX)
+JOB END time:  a498400d  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  d2694529  (HEX)
+EXECUTION TIME:  10152  (DECIMAL)
+IO TIME:  442808551  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1207681766  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  40   (DECIMAL)
+Input-Data Segment: JOBID: 00040   (HEX)
+000e   (HEX)
+Output-Data Segment: JOBID: 00040   (HEX)
+                     0000000001101001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  770185a0  (HEX)
+JOB END time:  f8c34fd0  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  bf37956f  (HEX)
+EXECUTION TIME:  10593  (DECIMAL)
+IO TIME:  -322044368  (DECIMAL)
+Page-fault handling time: 5200 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2118006224  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  39   (DECIMAL)
+Input-Data Segment: JOBID: 00039   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00039   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f8c34fd1  (HEX)
+JOB END time:  2d0513e2  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  2a751412  (HEX)
+EXECUTION TIME:  10960  (DECIMAL)
+IO TIME:  1799170366  (DECIMAL)
+Page-fault handling time: 5440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  876725265  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  38   (DECIMAL)
+Input-Data Segment: JOBID: 00038   (HEX)
+000a   fffe   (HEX)
+Output-Data Segment: JOBID: 00038   (HEX)
+                     1111111111111110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2d0513e3  (HEX)
+JOB END time:  14e7a3d  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  1511d1fd  (HEX)
+EXECUTION TIME:  11142  (DECIMAL)
+IO TIME:  -358849100  (DECIMAL)
+Page-fault handling time: 5710 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -733387174  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  38   (DECIMAL)
+Input-Data Segment: JOBID: 00038   (HEX)
+000a   fffe   (HEX)
+Output-Data Segment: JOBID: 00038   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  beeede90  (HEX)
+JOB END time:  beeedea4  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  14c06513  (HEX)
+EXECUTION TIME:  11584  (DECIMAL)
+IO TIME:  -5359663  (DECIMAL)
+Page-fault handling time: 5880 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  38   (DECIMAL)
+Input-Data Segment: JOBID: 00038   (HEX)
+000a   fffe   (HEX)
+Output-Data Segment: JOBID: 00038   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  beeedea4  (HEX)
+JOB END time:  beeedeb8  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  146ef83e  (HEX)
+EXECUTION TIME:  11589  (DECIMAL)
+IO TIME:  -5359647  (DECIMAL)
+Page-fault handling time: 5880 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  44   (DECIMAL)
+Input-Data Segment: JOBID: 00044   (HEX)
+0005   0bcd   0160   (HEX)
+Output-Data Segment: JOBID: 00044   (HEX)
+                     0000101111001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  beeedf09  (HEX)
+JOB END time:  3988b27b  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  8eb7602d  (HEX)
+EXECUTION TIME:  11825  (DECIMAL)
+IO TIME:  2051541445  (DECIMAL)
+Page-fault handling time: 6130 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2056901490  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  43   (DECIMAL)
+Input-Data Segment: JOBID: 00043   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00043   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3988b27b  (HEX)
+JOB END time:  56f77449  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  266e8a6d  (HEX)
+EXECUTION TIME:  12020  (DECIMAL)
+IO TIME:  -1749628337  (DECIMAL)
+Page-fault handling time: 6260 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  493797838  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  42   (DECIMAL)
+Input-Data Segment: JOBID: 00042   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00042   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  56f7744a  (HEX)
+JOB END time:  7d65ff71  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  e4944030  (HEX)
+EXECUTION TIME:  12086  (DECIMAL)
+IO TIME:  -1104849700  (DECIMAL)
+Page-fault handling time: 6350 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  644778791  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  41   (DECIMAL)
+Input-Data Segment: JOBID: 00041   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00041   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7d65ff71  (HEX)
+JOB END time:  61fa405b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  874e3739  (HEX)
+EXECUTION TIME:  12152  (DECIMAL)
+IO TIME:  -1564895956  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -460046102  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 47job-id: 44job-id: 45job-id: 42JobID:  44   (DECIMAL)
+Input-Data Segment: JOBID: 00044   (HEX)
+0005   0bcd   0160   (HEX)
+Output-Data Segment: JOBID: 00044   (HEX)
+                     0000000000110100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa405b  (HEX)
+JOB END time:  61fa406f  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  2a082e57  (HEX)
+EXECUTION TIME:  12157  (DECIMAL)
+IO TIME:  -1564895940  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  42   (DECIMAL)
+Input-Data Segment: JOBID: 00042   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00042   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa4070  (HEX)
+JOB END time:  61fa40b0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  ccc225b6  (HEX)
+EXECUTION TIME:  12206  (DECIMAL)
+IO TIME:  -1564895924  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  41   (DECIMAL)
+Input-Data Segment: JOBID: 00041   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00041   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa40b0  (HEX)
+JOB END time:  61fa40f0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  6f7c1d56  (HEX)
+EXECUTION TIME:  12255  (DECIMAL)
+IO TIME:  -1564895908  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  42   (DECIMAL)
+Input-Data Segment: JOBID: 00042   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00042   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa40f0  (HEX)
+JOB END time:  61fa4130  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  12361537  (HEX)
+EXECUTION TIME:  12304  (DECIMAL)
+IO TIME:  -1564895892  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  41   (DECIMAL)
+Input-Data Segment: JOBID: 00041   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00041   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa4130  (HEX)
+JOB END time:  61fa4170  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  b4f00d59  (HEX)
+EXECUTION TIME:  12353  (DECIMAL)
+IO TIME:  -1564895876  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  42   (DECIMAL)
+Input-Data Segment: JOBID: 00042   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00042   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa4170  (HEX)
+JOB END time:  61fa41b0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  57aa05bc  (HEX)
+EXECUTION TIME:  12402  (DECIMAL)
+IO TIME:  -1564895860  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  41   (DECIMAL)
+Input-Data Segment: JOBID: 00041   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00041   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa41b0  (HEX)
+JOB END time:  61fa41f0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  fa63fe60  (HEX)
+EXECUTION TIME:  12451  (DECIMAL)
+IO TIME:  -1564895844  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  41   (DECIMAL)
+Input-Data Segment: JOBID: 00041   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00041   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa4205  (HEX)
+JOB END time:  61fa4245  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  9d1df75a  (HEX)
+EXECUTION TIME:  12521  (DECIMAL)
+IO TIME:  -1564895828  (DECIMAL)
+Page-fault handling time: 6440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  64  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  48   (DECIMAL)
+Input-Data Segment: JOBID: 00048   (HEX)
+000e   0013   (HEX)
+Output-Data Segment: JOBID: 00048   (HEX)
+                     1111111111111010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61fa42aa  (HEX)
+JOB END time:  73901976  (HEX)
+NUMBER of PAGE FAULTS:  7   (DECIMAL)CLOCK:  1731da3d  (HEX)
+EXECUTION TIME:  12724  (DECIMAL)
+IO TIME:  2048097274  (DECIMAL)
+Page-fault handling time: 6800 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  295032524  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  47   (DECIMAL)
+Input-Data Segment: JOBID: 00047   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00047   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  73901976  (HEX)
+JOB END time:  8ac1f49e  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a87798a3  (HEX)
+EXECUTION TIME:  12838  (DECIMAL)
+IO TIME:  -1857726889  (DECIMAL)
+Page-fault handling time: 6890 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  389143336  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 46job-id: 45job-id: 47job-id: 48job-id: 47JobID:  46   (DECIMAL)
+Input-Data Segment: JOBID: 00046   (HEX)
+0007   000b   0001   0000   (HEX)
+Output-Data Segment: JOBID: 00046   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8ac1f49f  (HEX)
+JOB END time:  ce7ebb8f  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  7d7a1e3e  (HEX)
+EXECUTION TIME:  13115  (DECIMAL)
+IO TIME:  -721282049  (DECIMAL)
+Page-fault handling time: 6950 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1136445168  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  45   (DECIMAL)
+Input-Data Segment: JOBID: 00045   (HEX)
+0003   0002   (HEX)
+Output-Data Segment: JOBID: 00045   (HEX)
+                     0000000000111100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ce7ebb90  (HEX)
+JOB END time:  c467355c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  48651dd2  (HEX)
+EXECUTION TIME:  13212  (DECIMAL)
+IO TIME:  -890596025  (DECIMAL)
+Page-fault handling time: 6990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -169313844  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  48   (DECIMAL)
+Input-Data Segment: JOBID: 00048   (HEX)
+000e   0013   (HEX)
+Output-Data Segment: JOBID: 00048   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c467355c  (HEX)
+JOB END time:  c4673570  (HEX)
+NUMBER of PAGE FAULTS:  7   (DECIMAL)CLOCK:  13501d7b  (HEX)
+EXECUTION TIME:  13217  (DECIMAL)
+IO TIME:  -890596009  (DECIMAL)
+Page-fault handling time: 6990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  47   (DECIMAL)
+Input-Data Segment: JOBID: 00047   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00047   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c4673570  (HEX)
+JOB END time:  c46735e8  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  de3b1d9d  (HEX)
+EXECUTION TIME:  13322  (DECIMAL)
+IO TIME:  -890595993  (DECIMAL)
+Page-fault handling time: 6990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  48   (DECIMAL)
+Input-Data Segment: JOBID: 00048   (HEX)
+000e   0013   (HEX)
+Output-Data Segment: JOBID: 00048   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c46735ea  (HEX)
+JOB END time:  c46735fe  (HEX)
+NUMBER of PAGE FAULTS:  7   (DECIMAL)CLOCK:  a9261dd5  (HEX)
+EXECUTION TIME:  13328  (DECIMAL)
+IO TIME:  -890595977  (DECIMAL)
+Page-fault handling time: 6990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 50job-id: 47JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c467366c  (HEX)
+JOB END time:  6d8d54c9  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  1d373d66  (HEX)
+EXECUTION TIME:  13404  (DECIMAL)
+IO TIME:  1947251564  (DECIMAL)
+Page-fault handling time: 7130 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1457119651  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  51   (DECIMAL)
+Input-Data Segment: JOBID: 00051   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00051   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6d8d54c9  (HEX)
+JOB END time:  8ac492bf  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ae7f9b2b  (HEX)
+EXECUTION TIME:  13458  (DECIMAL)
+IO TIME:  -1857556238  (DECIMAL)
+Page-fault handling time: 7190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  490159606  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  51   (DECIMAL)
+Input-Data Segment: JOBID: 00051   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00051   (HEX)
+                     0000000001100100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6d8d54c9  (HEX)
+JOB END time:  8ac492cf  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3fc7f900  (HEX)
+EXECUTION TIME:  13458  (DECIMAL)
+IO TIME:  -1857556222  (DECIMAL)
+Page-fault handling time: 7190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  490159622  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  49   (DECIMAL)
+Input-Data Segment: JOBID: 00049   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00049   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8ac492cf  (HEX)
+JOB END time:  a54863b  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  50a04abc  (HEX)
+EXECUTION TIME:  13657  (DECIMAL)
+IO TIME:  282583858  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2140140396  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 55job-id: 52job-id: 54job-id: 51JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a54863b  (HEX)
+JOB END time:  5af4d13c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  61789cbe  (HEX)
+EXECUTION TIME:  13711  (DECIMAL)
+IO TIME:  282583874  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1352682241  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  49   (DECIMAL)
+Input-Data Segment: JOBID: 00049   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00049   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5af4d14c  (HEX)
+JOB END time:  5af4d15c  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  72510b7b  (HEX)
+EXECUTION TIME:  13713  (DECIMAL)
+IO TIME:  282583906  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 55job-id: 52JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5af4d15c  (HEX)
+JOB END time:  cd45dd1c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  83295de5  (HEX)
+EXECUTION TIME:  13767  (DECIMAL)
+IO TIME:  282583922  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1917914048  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  49   (DECIMAL)
+Input-Data Segment: JOBID: 00049   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00049   (HEX)
+                     0001000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  cd45dd1c  (HEX)
+JOB END time:  cd45dd2c  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  9401b060  (HEX)
+EXECUTION TIME:  13768  (DECIMAL)
+IO TIME:  282583938  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  cd45dd2c  (HEX)
+JOB END time:  61478dd1  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  a4da0321  (HEX)
+EXECUTION TIME:  13822  (DECIMAL)
+IO TIME:  282583954  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1811828571  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  61478dd2  (HEX)
+JOB END time:  6219138  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b5b25629  (HEX)
+EXECUTION TIME:  13877  (DECIMAL)
+IO TIME:  282583970  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1529216154  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6219138  (HEX)
+JOB END time:  bbd3e7a6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  c68aa977  (HEX)
+EXECUTION TIME:  13931  (DECIMAL)
+IO TIME:  282583986  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1246603666  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bbd3e7a6  (HEX)
+JOB END time:  825e9162  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  d762fd0b  (HEX)
+EXECUTION TIME:  13985  (DECIMAL)
+IO TIME:  282584002  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -963991108  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  825e9162  (HEX)
+JOB END time:  59c18eb2  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e83b50e5  (HEX)
+EXECUTION TIME:  14039  (DECIMAL)
+IO TIME:  282584018  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -681378480  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  59c18eb2  (HEX)
+JOB END time:  41fcdfdc  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f913a505  (HEX)
+EXECUTION TIME:  14093  (DECIMAL)
+IO TIME:  282584034  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -398765782  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  41fcdfdc  (HEX)
+JOB END time:  3b108526  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9ebf96b  (HEX)
+EXECUTION TIME:  14147  (DECIMAL)
+IO TIME:  282584050  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -116153014  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3b108526  (HEX)
+JOB END time:  44fc7ed6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  1ac44e17  (HEX)
+EXECUTION TIME:  14201  (DECIMAL)
+IO TIME:  282584066  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  166459824  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  44fc7ed6  (HEX)
+JOB END time:  5fc0cd32  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2b9ca309  (HEX)
+EXECUTION TIME:  14255  (DECIMAL)
+IO TIME:  282584082  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  449072732  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5fc0cd32  (HEX)
+JOB END time:  8b5d7080  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3c74f841  (HEX)
+EXECUTION TIME:  14309  (DECIMAL)
+IO TIME:  282584098  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  731685710  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b5d7080  (HEX)
+JOB END time:  c7d26906  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  4d4d4dbf  (HEX)
+EXECUTION TIME:  14363  (DECIMAL)
+IO TIME:  282584114  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1014298758  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  c7d26906  (HEX)
+JOB END time:  151fb70a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  5e25a383  (HEX)
+EXECUTION TIME:  14417  (DECIMAL)
+IO TIME:  282584130  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1296911876  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  52   (DECIMAL)
+Input-Data Segment: JOBID: 00052   (HEX)
+fffe   (HEX)
+Output-Data Segment: JOBID: 00052   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  151fb70a  (HEX)
+JOB END time:  73455ad2  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6efdf98d  (HEX)
+EXECUTION TIME:  14471  (DECIMAL)
+IO TIME:  282584146  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1579525064  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  56   (DECIMAL)
+Input-Data Segment: JOBID: 00056   (HEX)
+0007   (HEX)
+Output-Data Segment: JOBID: 00056   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e24354c9  (HEX)
+JOB END time:  2f3d42a4  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  eed44bbe  (HEX)
+EXECUTION TIME:  14605  (DECIMAL)
+IO TIME:  2144722431  (DECIMAL)
+Page-fault handling time: 7560 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1291447771  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  55   (DECIMAL)
+Input-Data Segment: JOBID: 00055   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00055   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2f3d42a4  (HEX)
+JOB END time:  d962becc  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  5d7eebcb  (HEX)
+EXECUTION TIME:  14775  (DECIMAL)
+IO TIME:  1856645597  (DECIMAL)
+Page-fault handling time: 7730 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1440383960  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  54   (DECIMAL)
+Input-Data Segment: JOBID: 00054   (HEX)
+0006   001b   0001   0010   (HEX)
+Output-Data Segment: JOBID: 00054   (HEX)
+                     0000000000001110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d962becc  (HEX)
+JOB END time:  67db32fd  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  5aa2004d  (HEX)
+EXECUTION TIME:  15015  (DECIMAL)
+IO TIME:  -48063254  (DECIMAL)
+Page-fault handling time: 7790 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1904708559  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 53job-id: 56job-id: 58job-id: 55job-id: 54JobID:  53   (DECIMAL)
+Input-Data Segment: JOBID: 00053   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00053   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  67db32fe  (HEX)
+JOB END time:  87a7360e  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  d09172e  (HEX)
+EXECUTION TIME:  15160  (DECIMAL)
+IO TIME:  -1301897804  (DECIMAL)
+Page-fault handling time: 7920 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  533463824  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  53   (DECIMAL)
+Input-Data Segment: JOBID: 00053   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00053   (HEX)
+                     0000000001001100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  67db32fe  (HEX)
+JOB END time:  87a7361e  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  bf702e1f  (HEX)
+EXECUTION TIME:  15160  (DECIMAL)
+IO TIME:  -1301897788  (DECIMAL)
+Page-fault handling time: 7920 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  533463840  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  53   (DECIMAL)
+Input-Data Segment: JOBID: 00053   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00053   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  87a73620  (HEX)
+JOB END time:  87a73630  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  71d74523  (HEX)
+EXECUTION TIME:  15163  (DECIMAL)
+IO TIME:  -1301897772  (DECIMAL)
+Page-fault handling time: 7920 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  60   (DECIMAL)
+Input-Data Segment: JOBID: 00060   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00060   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  87a73690  (HEX)
+JOB END time:  6b55fff0  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  7ed45b5  (HEX)
+EXECUTION TIME:  15278  (DECIMAL)
+IO TIME:  -1776982448  (DECIMAL)
+Page-fault handling time: 8130 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -475084448  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  59   (DECIMAL)
+Input-Data Segment: JOBID: 00059   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00059   (HEX)
+                     0000001000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6b55fff1  (HEX)
+JOB END time:  73434770  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a5f06f13  (HEX)
+EXECUTION TIME:  15636  (DECIMAL)
+IO TIME:  -1643992027  (DECIMAL)
+Page-fault handling time: 8200 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  132990847  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  58   (DECIMAL)
+Input-Data Segment: JOBID: 00058   (HEX)
+000d   (HEX)
+Output-Data Segment: JOBID: 00058   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  73434770  (HEX)
+JOB END time:  1933b83b  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  e9e409ca  (HEX)
+EXECUTION TIME:  15906  (DECIMAL)
+IO TIME:  1140005720  (DECIMAL)
+Page-fault handling time: 8340 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1510969141  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  57   (DECIMAL)
+Input-Data Segment: JOBID: 00057   (HEX)
+0004   0bcd   0567   (HEX)
+Output-Data Segment: JOBID: 00057   (HEX)
+                     0000101111001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1933b83c  (HEX)
+JOB END time:  aaa7eaec  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  bf4bd7e1  (HEX)
+EXECUTION TIME:  16092  (DECIMAL)
+IO TIME:  -714650454  (DECIMAL)
+Page-fault handling time: 8510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1854655824  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  57   (DECIMAL)
+Input-Data Segment: JOBID: 00057   (HEX)
+0004   0bcd   0567   (HEX)
+Output-Data Segment: JOBID: 00057   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  aaa7eaed  (HEX)
+JOB END time:  aaa7eb01  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  94b3a60e  (HEX)
+EXECUTION TIME:  16098  (DECIMAL)
+IO TIME:  -714650438  (DECIMAL)
+Page-fault handling time: 8510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  64   (DECIMAL)
+Input-Data Segment: JOBID: 00064   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00064   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  aaa7eb52  (HEX)
+JOB END time:  26ddd0e8  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  9382c2bc  (HEX)
+EXECUTION TIME:  16243  (DECIMAL)
+IO TIME:  -20014842  (DECIMAL)
+Page-fault handling time: 8720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2083906966  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  64   (DECIMAL)
+Input-Data Segment: JOBID: 00064   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00064   (HEX)
+                     0000000001000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  aaa7eb52  (HEX)
+JOB END time:  26ddd0f8  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  9251df7a  (HEX)
+EXECUTION TIME:  16243  (DECIMAL)
+IO TIME:  -20014826  (DECIMAL)
+Page-fault handling time: 8720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2083906982  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  26ddd0f8  (HEX)
+JOB END time:  b92fb0fa  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2372dc78  (HEX)
+EXECUTION TIME:  16289  (DECIMAL)
+IO TIME:  -1860142928  (DECIMAL)
+Page-fault handling time: 8780 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1840127998  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 64job-id: 61job-id: 67job-id: 64JobID:  61   (DECIMAL)
+Input-Data Segment: JOBID: 00061   (HEX)
+0004   0002   0009   (HEX)
+Output-Data Segment: JOBID: 00061   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  b92fb0fa  (HEX)
+JOB END time:  6a6e0052  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  65d228fc  (HEX)
+EXECUTION TIME:  16415  (DECIMAL)
+IO TIME:  1113507688  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1321316520  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 67job-id: 64job-id: 65job-id: 62JobID:  64   (DECIMAL)
+Input-Data Segment: JOBID: 00064   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00064   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6a6e0052  (HEX)
+JOB END time:  6a6e0062  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a8317591  (HEX)
+EXECUTION TIME:  16416  (DECIMAL)
+IO TIME:  1113507704  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6a6e0072  (HEX)
+JOB END time:  129f98c7  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ea90e4fb  (HEX)
+EXECUTION TIME:  16470  (DECIMAL)
+IO TIME:  1113507736  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1473144747  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  129f98c8  (HEX)
+JOB END time:  fd307e08  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2cf0322d  (HEX)
+EXECUTION TIME:  16525  (DECIMAL)
+IO TIME:  1113507752  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -359602880  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fd307e08  (HEX)
+JOB END time:  2a20b07a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6f4f7fa5  (HEX)
+EXECUTION TIME:  16579  (DECIMAL)
+IO TIME:  1113507768  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  753939058  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2a20b07a  (HEX)
+JOB END time:  99703064  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b1aecd63  (HEX)
+EXECUTION TIME:  16633  (DECIMAL)
+IO TIME:  1113507784  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1867481066  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  99703064  (HEX)
+JOB END time:  4b1efe0c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f40e1b67  (HEX)
+EXECUTION TIME:  16687  (DECIMAL)
+IO TIME:  1113507800  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1313944152  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4b1efe0c  (HEX)
+JOB END time:  3f2d19b8  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  366d69b1  (HEX)
+EXECUTION TIME:  16741  (DECIMAL)
+IO TIME:  1113507816  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -200402004  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3f2d19b8  (HEX)
+JOB END time:  759a83ae  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  78ccb841  (HEX)
+EXECUTION TIME:  16795  (DECIMAL)
+IO TIME:  1113507832  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  913140214  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  759a83ae  (HEX)
+JOB END time:  ee673c34  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  bb2c0717  (HEX)
+EXECUTION TIME:  16849  (DECIMAL)
+IO TIME:  1113507848  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2026682502  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ee673c34  (HEX)
+JOB END time:  a9934390  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  fd8b5633  (HEX)
+EXECUTION TIME:  16903  (DECIMAL)
+IO TIME:  1113507864  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1154742436  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a9934390  (HEX)
+JOB END time:  a71e9a08  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3feaa595  (HEX)
+EXECUTION TIME:  16957  (DECIMAL)
+IO TIME:  1113507880  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -41200008  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a71e9a08  (HEX)
+JOB END time:  e7093fe2  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8249f53d  (HEX)
+EXECUTION TIME:  17011  (DECIMAL)
+IO TIME:  1113507896  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1072342490  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e7093fe2  (HEX)
+JOB END time:  69533564  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  c4a9452b  (HEX)
+EXECUTION TIME:  17065  (DECIMAL)
+IO TIME:  1113507912  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2109082238  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  69533564  (HEX)
+JOB END time:  2dfc7ad4  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  708955f  (HEX)
+EXECUTION TIME:  17119  (DECIMAL)
+IO TIME:  1113507928  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -995539600  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2dfc7ad4  (HEX)
+JOB END time:  35051078  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  4967e5d9  (HEX)
+EXECUTION TIME:  17173  (DECIMAL)
+IO TIME:  1113507944  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  118003108  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  62   (DECIMAL)
+Input-Data Segment: JOBID: 00062   (HEX)
+0023   (HEX)
+Output-Data Segment: JOBID: 00062   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  35051078  (HEX)
+JOB END time:  7e6cf696  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8bc73699  (HEX)
+EXECUTION TIME:  17227  (DECIMAL)
+IO TIME:  1113507960  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1231545886  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  68   (DECIMAL)
+Input-Data Segment: JOBID: 00068   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00068   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  a342d99  (HEX)
+JOB END time:  3ae0632c  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  e5b4f8d0  (HEX)
+EXECUTION TIME:  17632  (DECIMAL)
+IO TIME:  1508718042  (DECIMAL)
+Page-fault handling time: 9140 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  816592275  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  67   (DECIMAL)
+Input-Data Segment: JOBID: 00067   (HEX)
+0014   (HEX)
+Output-Data Segment: JOBID: 00067   (HEX)
+                     0000000011010010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3ae0632d  (HEX)
+JOB END time:  2d03d613  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2557b694  (HEX)
+EXECUTION TIME:  18221  (DECIMAL)
+IO TIME:  1067593418  (DECIMAL)
+Page-fault handling time: 9180 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -232557850  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 69job-id: 66job-id: 68job-id: 65JobID:  66   (DECIMAL)
+Input-Data Segment: JOBID: 00066   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00066   (HEX)
+                     0000000000101101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2d03d614  (HEX)
+JOB END time:  7d1942a4  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8a522c6a  (HEX)
+EXECUTION TIME:  18491  (DECIMAL)
+IO TIME:  1694098814  (DECIMAL)
+Page-fault handling time: 9220 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1343581328  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  65   (DECIMAL)
+Input-Data Segment: JOBID: 00065   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00065   (HEX)
+                     0000000000000111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7d1942a5  (HEX)
+JOB END time:  bb064e59  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  8e43296e  (HEX)
+EXECUTION TIME:  18563  (DECIMAL)
+IO TIME:  66087676  (DECIMAL)
+Page-fault handling time: 9400 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1038945204  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  65   (DECIMAL)
+Input-Data Segment: JOBID: 00065   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00065   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bb064e59  (HEX)
+JOB END time:  bb064e69  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  92342683  (HEX)
+EXECUTION TIME:  18564  (DECIMAL)
+IO TIME:  66087692  (DECIMAL)
+Page-fault handling time: 9400 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  65   (DECIMAL)
+Input-Data Segment: JOBID: 00065   (HEX)
+0007   0020   (HEX)
+Output-Data Segment: JOBID: 00065   (HEX)
+                     0000000000000011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bb064e69  (HEX)
+JOB END time:  bb064e79  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  962523a9  (HEX)
+EXECUTION TIME:  18565  (DECIMAL)
+IO TIME:  66087708  (DECIMAL)
+Page-fault handling time: 9400 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  72   (DECIMAL)
+Input-Data Segment: JOBID: 00072   (HEX)
+0005   0008   000b   (HEX)
+Output-Data Segment: JOBID: 00072   (HEX)
+                     0000000000110100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bb064eca  (HEX)
+JOB END time:  3fe525ec  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  1ef4f8c1  (HEX)
+EXECUTION TIME:  18721  (DECIMAL)
+IO TIME:  -1999683198  (DECIMAL)
+Page-fault handling time: 9520 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2065770718  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  71   (DECIMAL)
+Input-Data Segment: JOBID: 00071   (HEX)
+0003   0bcd   (HEX)
+Output-Data Segment: JOBID: 00071   (HEX)
+                     0000101111001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3fe525ec  (HEX)
+JOB END time:  bbb90a72  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  2398b30e  (HEX)
+EXECUTION TIME:  18862  (DECIMAL)
+IO TIME:  77800662  (DECIMAL)
+Page-fault handling time: 9690 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  2077484166  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  70   (DECIMAL)
+Input-Data Segment: JOBID: 00070   (HEX)
+000a   0005   (HEX)
+Output-Data Segment: JOBID: 00070   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  bbb90a72  (HEX)
+JOB END time:  6db48bbc  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  9306899b  (HEX)
+EXECUTION TIME:  19048  (DECIMAL)
+IO TIME:  1869430336  (DECIMAL)
+Page-fault handling time: 9960 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1308917430  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  69   (DECIMAL)
+Input-Data Segment: JOBID: 00069   (HEX)
+0006   000b   000b   0010   (HEX)
+Output-Data Segment: JOBID: 00069   (HEX)
+                     0000000000001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6db48bbc  (HEX)
+JOB END time:  72e2509d  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  7a2254d  (HEX)
+EXECUTION TIME:  19288  (DECIMAL)
+IO TIME:  1956315645  (DECIMAL)
+Page-fault handling time: 10020 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  86885601  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  71   (DECIMAL)
+Input-Data Segment: JOBID: 00071   (HEX)
+0003   0bcd   (HEX)
+Output-Data Segment: JOBID: 00071   (HEX)
+                     0000000100100011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  72e2509f  (HEX)
+JOB END time:  72e250b3  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  7c3dc115  (HEX)
+EXECUTION TIME:  19294  (DECIMAL)
+IO TIME:  1956315661  (DECIMAL)
+Page-fault handling time: 10020 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  70   (DECIMAL)
+Input-Data Segment: JOBID: 00070   (HEX)
+000a   0005   (HEX)
+Output-Data Segment: JOBID: 00070   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  72e250b4  (HEX)
+JOB END time:  72e250c8  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  f0d95cf2  (HEX)
+EXECUTION TIME:  19299  (DECIMAL)
+IO TIME:  1956315677  (DECIMAL)
+Page-fault handling time: 10020 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  70   (DECIMAL)
+Input-Data Segment: JOBID: 00070   (HEX)
+000a   0005   (HEX)
+Output-Data Segment: JOBID: 00070   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  72e250c8  (HEX)
+JOB END time:  72e250dc  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  6574f8e4  (HEX)
+EXECUTION TIME:  19304  (DECIMAL)
+IO TIME:  1956315693  (DECIMAL)
+Page-fault handling time: 10020 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  76   (DECIMAL)
+Input-Data Segment: JOBID: 00076   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00076   (HEX)
+                     0000000000000111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  72e2512d  (HEX)
+JOB END time:  d3a027bd  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  a6f8213  (HEX)
+EXECUTION TIME:  19377  (DECIMAL)
+IO TIME:  -1527124711  (DECIMAL)
+Page-fault handling time: 10280 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1623053968  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  75   (DECIMAL)
+Input-Data Segment: JOBID: 00075   (HEX)
+0014   (HEX)
+Output-Data Segment: JOBID: 00075   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d3a027bd  (HEX)
+JOB END time:  e87f2d57  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  c449115f  (HEX)
+EXECUTION TIME:  19572  (DECIMAL)
+IO TIME:  -1176964753  (DECIMAL)
+Page-fault handling time: 10410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  350160282  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 74job-id: 73job-id: 75job-id: 76job-id: 75JobID:  74   (DECIMAL)
+Input-Data Segment: JOBID: 00074   (HEX)
+0003   0001   (HEX)
+Output-Data Segment: JOBID: 00074   (HEX)
+                     0000000000001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e87f2d58  (HEX)
+JOB END time:  f9a373a8  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8f46e728  (HEX)
+EXECUTION TIME:  19669  (DECIMAL)
+IO TIME:  -889374917  (DECIMAL)
+Page-fault handling time: 10450 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  287589968  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  73   (DECIMAL)
+Input-Data Segment: JOBID: 00073   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00073   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f9a373a8  (HEX)
+JOB END time:  88ea5b60  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e98ba4e7  (HEX)
+EXECUTION TIME:  19723  (DECIMAL)
+IO TIME:  1514413699  (DECIMAL)
+Page-fault handling time: 10510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1891178568  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  73   (DECIMAL)
+Input-Data Segment: JOBID: 00073   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00073   (HEX)
+                     0000000011100001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f9a373a8  (HEX)
+JOB END time:  88ea5b70  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  43d062b6  (HEX)
+EXECUTION TIME:  19723  (DECIMAL)
+IO TIME:  1514413715  (DECIMAL)
+Page-fault handling time: 10510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1891178552  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  76   (DECIMAL)
+Input-Data Segment: JOBID: 00076   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00076   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  88ea5b70  (HEX)
+JOB END time:  88ea5b80  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  9e152096  (HEX)
+EXECUTION TIME:  19724  (DECIMAL)
+IO TIME:  1514413731  (DECIMAL)
+Page-fault handling time: 10510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  76   (DECIMAL)
+Input-Data Segment: JOBID: 00076   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00076   (HEX)
+                     0000000000010010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  88ea5b91  (HEX)
+JOB END time:  88ea5ba1  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  f85a07b2  (HEX)
+EXECUTION TIME:  19727  (DECIMAL)
+IO TIME:  1514413763  (DECIMAL)
+Page-fault handling time: 10510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  80   (DECIMAL)
+Input-Data Segment: JOBID: 00080   (HEX)
+0004   000b   0001   (HEX)
+Output-Data Segment: JOBID: 00080   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  88ea5bf2  (HEX)
+JOB END time:  62ac83a8  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  2c60ee4e  (HEX)
+EXECUTION TIME:  19894  (DECIMAL)
+IO TIME:  872826269  (DECIMAL)
+Page-fault handling time: 10650 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -641587274  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 79job-id: 78job-id: 80job-id: 77job-id: 76JobID:  79   (DECIMAL)
+Input-Data Segment: JOBID: 00079   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00079   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  62ac83a9  (HEX)
+JOB END time:  8f0d7287  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8cc8c406  (HEX)
+EXECUTION TIME:  19948  (DECIMAL)
+IO TIME:  1617376267  (DECIMAL)
+Page-fault handling time: 10710 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  744550110  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  79   (DECIMAL)
+Input-Data Segment: JOBID: 00079   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00079   (HEX)
+                     0000101111010001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  62ac83a9  (HEX)
+JOB END time:  8f0d7297  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ed3099ce  (HEX)
+EXECUTION TIME:  19948  (DECIMAL)
+IO TIME:  1617376283  (DECIMAL)
+Page-fault handling time: 10710 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  744550126  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  78   (DECIMAL)
+Input-Data Segment: JOBID: 00078   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00078   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8f0d7297  (HEX)
+JOB END time:  569f4135  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  3ac90b44  (HEX)
+EXECUTION TIME:  20056  (DECIMAL)
+IO TIME:  1301794313  (DECIMAL)
+Page-fault handling time: 10880 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -946745698  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  77   (DECIMAL)
+Input-Data Segment: JOBID: 00077   (HEX)
+0004   000b   0001   (HEX)
+Output-Data Segment: JOBID: 00077   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  569f4135  (HEX)
+JOB END time:  7c8c7ac5  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  ae4eb68c  (HEX)
+EXECUTION TIME:  20222  (DECIMAL)
+IO TIME:  1938097853  (DECIMAL)
+Page-fault handling time: 10940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  636303760  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  84   (DECIMAL)
+Input-Data Segment: JOBID: 00084   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00084   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  7c8c7b27  (HEX)
+JOB END time:  e416e3ca  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  2cc1345c  (HEX)
+EXECUTION TIME:  20410  (DECIMAL)
+IO TIME:  2121378566  (DECIMAL)
+Page-fault handling time: 11290 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1737124003  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  83   (DECIMAL)
+Input-Data Segment: JOBID: 00083   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00083   (HEX)
+                     0000000000011111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e416e3ca  (HEX)
+JOB END time:  76e1bc28  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  d7f4bd53  (HEX)
+EXECUTION TIME:  20560  (DECIMAL)
+IO TIME:  -1422729342  (DECIMAL)
+Page-fault handling time: 11400 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1832200098  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  83   (DECIMAL)
+Input-Data Segment: JOBID: 00083   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00083   (HEX)
+                     0000000000001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  e416e3ca  (HEX)
+JOB END time:  76e1bc38  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  8328465a  (HEX)
+EXECUTION TIME:  20560  (DECIMAL)
+IO TIME:  -1422729326  (DECIMAL)
+Page-fault handling time: 11400 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1832200082  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  82   (DECIMAL)
+Input-Data Segment: JOBID: 00082   (HEX)
+0003   (HEX)
+Output-Data Segment: JOBID: 00082   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  76e1bc38  (HEX)
+JOB END time:  fa0a039a  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  b1841751  (HEX)
+EXECUTION TIME:  20654  (DECIMAL)
+IO TIME:  777725452  (DECIMAL)
+Page-fault handling time: 11540 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2094512286  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  fa0a039b  (HEX)
+JOB END time:  ab8e1b74  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9164005f  (HEX)
+EXECUTION TIME:  20700  (DECIMAL)
+IO TIME:  -539017859  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1316743207  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  84   (DECIMAL)
+Input-Data Segment: JOBID: 00084   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00084   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ab8e1b74  (HEX)
+JOB END time:  ab8e1b88  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  7143e982  (HEX)
+EXECUTION TIME:  20705  (DECIMAL)
+IO TIME:  -539017843  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ab8e1b98  (HEX)
+JOB END time:  1cd232ba  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  51240057  (HEX)
+EXECUTION TIME:  20760  (DECIMAL)
+IO TIME:  -539017811  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1900287778  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  84   (DECIMAL)
+Input-Data Segment: JOBID: 00084   (HEX)
+000a   0000   (HEX)
+Output-Data Segment: JOBID: 00084   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1cd232ba  (HEX)
+JOB END time:  1cd232ce  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  3103e9e6  (HEX)
+EXECUTION TIME:  20765  (DECIMAL)
+IO TIME:  -539017795  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1cd232ce  (HEX)
+JOB END time:  4dd61cf9  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  10e3d3bb  (HEX)
+EXECUTION TIME:  20819  (DECIMAL)
+IO TIME:  -539017779  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  822340139  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4dd61cfa  (HEX)
+JOB END time:  5eb9f0fa  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f0c3bdd7  (HEX)
+EXECUTION TIME:  20874  (DECIMAL)
+IO TIME:  -539017763  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  283366400  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5eb9f0fa  (HEX)
+JOB END time:  4f7daf16  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  d0a3a839  (HEX)
+EXECUTION TIME:  20928  (DECIMAL)
+IO TIME:  -539017747  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -255607268  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4f7daf16  (HEX)
+JOB END time:  20215794  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b08392e1  (HEX)
+EXECUTION TIME:  20982  (DECIMAL)
+IO TIME:  -539017731  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -794580866  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  20215794  (HEX)
+JOB END time:  d0a4eaba  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  90637dcf  (HEX)
+EXECUTION TIME:  21036  (DECIMAL)
+IO TIME:  -539017715  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1333554394  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d0a4eaba  (HEX)
+JOB END time:  610868ce  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  70436903  (HEX)
+EXECUTION TIME:  21090  (DECIMAL)
+IO TIME:  -539017699  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1872527852  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  610868ce  (HEX)
+JOB END time:  d14bd216  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  5023547d  (HEX)
+EXECUTION TIME:  21144  (DECIMAL)
+IO TIME:  -539017683  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1883466056  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d14bd216  (HEX)
+JOB END time:  216f26d8  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3003403d  (HEX)
+EXECUTION TIME:  21198  (DECIMAL)
+IO TIME:  -539017667  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1344492738  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  216f26d8  (HEX)
+JOB END time:  5172675a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  fe32c43  (HEX)
+EXECUTION TIME:  21252  (DECIMAL)
+IO TIME:  -539017651  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  805519490  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5172675a  (HEX)
+JOB END time:  615593e2  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  efc3188f  (HEX)
+EXECUTION TIME:  21306  (DECIMAL)
+IO TIME:  -539017635  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  266546312  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  615593e2  (HEX)
+JOB END time:  5118acb6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  cfa30521  (HEX)
+EXECUTION TIME:  21360  (DECIMAL)
+IO TIME:  -539017619  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -272426796  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5118acb6  (HEX)
+JOB END time:  20bbb21c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  af82f1f9  (HEX)
+EXECUTION TIME:  21414  (DECIMAL)
+IO TIME:  -539017603  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -811399834  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  20bbb21c  (HEX)
+JOB END time:  d03ea45a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8f62df17  (HEX)
+EXECUTION TIME:  21468  (DECIMAL)
+IO TIME:  -539017587  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1350372802  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  81   (DECIMAL)
+Input-Data Segment: JOBID: 00081   (HEX)
+0012   (HEX)
+Output-Data Segment: JOBID: 00081   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d03ea45a  (HEX)
+JOB END time:  5fa183b6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6f42cc7b  (HEX)
+EXECUTION TIME:  21522  (DECIMAL)
+IO TIME:  -539017571  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1889345700  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  88   (DECIMAL)
+Input-Data Segment: JOBID: 00088   (HEX)
+000e   (HEX)
+Output-Data Segment: JOBID: 00088   (HEX)
+                     0000000000001110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  cee4509b  (HEX)
+JOB END time:  3e271da6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  be6587e2  (HEX)
+EXECUTION TIME:  21602  (DECIMAL)
+IO TIME:  1327631160  (DECIMAL)
+Page-fault handling time: 11740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1866648843  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 87job-id: 86job-id: 88job-id: 85job-id: 84JobID:  88   (DECIMAL)
+Input-Data Segment: JOBID: 00088   (HEX)
+000e   (HEX)
+Output-Data Segment: JOBID: 00088   (HEX)
+                     0010101100010001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  cee4509b  (HEX)
+JOB END time:  3e271db6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  d884359  (HEX)
+EXECUTION TIME:  21602  (DECIMAL)
+IO TIME:  1327631176  (DECIMAL)
+Page-fault handling time: 11740 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1866648859  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 87job-id: 86job-id: 88job-id: 85job-id: 84JobID:  87   (DECIMAL)
+Input-Data Segment: JOBID: 00087   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00087   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3e271db6  (HEX)
+JOB END time:  74482bd2  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  77bb8694  (HEX)
+EXECUTION TIME:  21648  (DECIMAL)
+IO TIME:  1781699114  (DECIMAL)
+Page-fault handling time: 11830 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  908135964  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  86   (DECIMAL)
+Input-Data Segment: JOBID: 00086   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 00086   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  74482bd2  (HEX)
+JOB END time:  42ad5482  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  49215f7b  (HEX)
+EXECUTION TIME:  21720  (DECIMAL)
+IO TIME:  -781900250  (DECIMAL)
+Page-fault handling time: 12010 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -832231248  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  85   (DECIMAL)
+Input-Data Segment: JOBID: 00085   (HEX)
+0007   000b   0001   0009   (HEX)
+Output-Data Segment: JOBID: 00085   (HEX)
+                     0000000000011011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  42ad5482  (HEX)
+JOB END time:  8bb85232  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  63923657  (HEX)
+EXECUTION TIME:  21997  (DECIMAL)
+IO TIME:  443556494  (DECIMAL)
+Page-fault handling time: 12070 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1225457072  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  86   (DECIMAL)
+Input-Data Segment: JOBID: 00086   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 00086   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8bb85244  (HEX)
+JOB END time:  8bb85254  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  7e033c87  (HEX)
+EXECUTION TIME:  22000  (DECIMAL)
+IO TIME:  443556526  (DECIMAL)
+Page-fault handling time: 12070 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  86   (DECIMAL)
+Input-Data Segment: JOBID: 00086   (HEX)
+0004   0020   (HEX)
+Output-Data Segment: JOBID: 00086   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8bb85254  (HEX)
+JOB END time:  8bb85264  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  98741397  (HEX)
+EXECUTION TIME:  22001  (DECIMAL)
+IO TIME:  443556542  (DECIMAL)
+Page-fault handling time: 12070 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  92   (DECIMAL)
+Input-Data Segment: JOBID: 00092   (HEX)
+000f   (HEX)
+Output-Data Segment: JOBID: 00092   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8bb852b5  (HEX)
+JOB END time:  ed88a1c9  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  e3cd1388  (HEX)
+EXECUTION TIME:  22048  (DECIMAL)
+IO TIME:  1264077340  (DECIMAL)
+Page-fault handling time: 12240 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1641041684  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  91   (DECIMAL)
+Input-Data Segment: JOBID: 00091   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00091   (HEX)
+                     0000000000000111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ed88a1c9  (HEX)
+JOB END time:  44571831  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  da8d5001  (HEX)
+EXECUTION TIME:  22120  (DECIMAL)
+IO TIME:  -155220748  (DECIMAL)
+Page-fault handling time: 12420 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1456371304  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 90job-id: 89job-id: 91job-id: 92job-id: 91JobID:  90   (DECIMAL)
+Input-Data Segment: JOBID: 00090   (HEX)
+0009   0020   (HEX)
+Output-Data Segment: JOBID: 00090   (HEX)
+                     0000000000001001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  44571831  (HEX)
+JOB END time:  63a6f96f  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  60f57e6d  (HEX)
+EXECUTION TIME:  22192  (DECIMAL)
+IO TIME:  -2040040137  (DECIMAL)
+Page-fault handling time: 12600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  525328702  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000001000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  63a6f96f  (HEX)
+JOB END time:  2591f7de  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  48532d55  (HEX)
+EXECUTION TIME:  22447  (DECIMAL)
+IO TIME:  -413338684  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1041564049  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  91   (DECIMAL)
+Input-Data Segment: JOBID: 00091   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00091   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2591f7df  (HEX)
+JOB END time:  2591f7ef  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  2fb0dc4f  (HEX)
+EXECUTION TIME:  22449  (DECIMAL)
+IO TIME:  -413338668  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 93job-id: 90job-id: 92job-id: 89JobID:  90   (DECIMAL)
+Input-Data Segment: JOBID: 00090   (HEX)
+0009   0020   (HEX)
+Output-Data Segment: JOBID: 00090   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2591f7ef  (HEX)
+JOB END time:  2591f7ff  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  170e8b5a  (HEX)
+EXECUTION TIME:  22450  (DECIMAL)
+IO TIME:  -413338652  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000100000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2591f7ff  (HEX)
+JOB END time:  3ca0845e  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  fe6c3b6b  (HEX)
+EXECUTION TIME:  22696  (DECIMAL)
+IO TIME:  -413338636  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  386829407  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  91   (DECIMAL)
+Input-Data Segment: JOBID: 00091   (HEX)
+0007   0010   (HEX)
+Output-Data Segment: JOBID: 00091   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3ca0845e  (HEX)
+JOB END time:  3ca0846e  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  e5c9eb8d  (HEX)
+EXECUTION TIME:  22697  (DECIMAL)
+IO TIME:  -413338620  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  90   (DECIMAL)
+Input-Data Segment: JOBID: 00090   (HEX)
+0009   0020   (HEX)
+Output-Data Segment: JOBID: 00090   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3ca0846e  (HEX)
+JOB END time:  3ca0847e  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  cd279bc0  (HEX)
+EXECUTION TIME:  22698  (DECIMAL)
+IO TIME:  -413338604  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000010000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  3ca0847e  (HEX)
+JOB END time:  9c8212b  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  b4854ce1  (HEX)
+EXECUTION TIME:  22920  (DECIMAL)
+IO TIME:  -413338588  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -853042003  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000001000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  9c8212d  (HEX)
+JOB END time:  be4d6ee3  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  9be2feda  (HEX)
+EXECUTION TIME:  23120  (DECIMAL)
+IO TIME:  -413338572  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1266332234  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000000100000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  be4d6ee3  (HEX)
+JOB END time:  5a306e7a  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  8340b191  (HEX)
+EXECUTION TIME:  23294  (DECIMAL)
+IO TIME:  -413338556  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1679622249  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5a306e7a  (HEX)
+JOB END time:  dd7120b0  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  6a9e64ee  (HEX)
+EXECUTION TIME:  23444  (DECIMAL)
+IO TIME:  -413338540  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -2092912074  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  dd7120b0  (HEX)
+JOB END time:  480f862b  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  51fc18d9  (HEX)
+EXECUTION TIME:  23570  (DECIMAL)
+IO TIME:  -413338524  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1788765563  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  480f862b  (HEX)
+JOB END time:  9a0b9f79  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  3959cd3a  (HEX)
+EXECUTION TIME:  23672  (DECIMAL)
+IO TIME:  -413338508  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1375476046  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  89   (DECIMAL)
+Input-Data Segment: JOBID: 00089   (HEX)
+0009   (HEX)
+Output-Data Segment: JOBID: 00089   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  9a0b9f79  (HEX)
+JOB END time:  d3656d10  (HEX)
+NUMBER of PAGE FAULTS:  3   (DECIMAL)CLOCK:  20b781f9  (HEX)
+EXECUTION TIME:  23750  (DECIMAL)
+IO TIME:  -413338492  (DECIMAL)
+Page-fault handling time: 12720 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  962186647  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  96   (DECIMAL)
+Input-Data Segment: JOBID: 00096   (HEX)
+0005   0bcd   0567   (HEX)
+Output-Data Segment: JOBID: 00096   (HEX)
+                     0000101111001101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  d3656d81  (HEX)
+JOB END time:  97b27b51  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  cc6245fa  (HEX)
+EXECUTION TIME:  24014  (DECIMAL)
+IO TIME:  -1414922038  (DECIMAL)
+Page-fault handling time: 12970 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1001583152  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  95   (DECIMAL)
+Input-Data Segment: JOBID: 00095   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00095   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  97b27b51  (HEX)
+JOB END time:  6414c236  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  446f513b  (HEX)
+EXECUTION TIME:  24128  (DECIMAL)
+IO TIME:  2014070500  (DECIMAL)
+Page-fault handling time: 13060 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -865974555  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  94   (DECIMAL)
+Input-Data Segment: JOBID: 00094   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00094   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6414c237  (HEX)
+JOB END time:  75d207db  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  455b0004  (HEX)
+EXECUTION TIME:  24174  (DECIMAL)
+IO TIME:  15395210  (DECIMAL)
+Page-fault handling time: 13150 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  297616804  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  93   (DECIMAL)
+Input-Data Segment: JOBID: 00093   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00093   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  75d207db  (HEX)
+JOB END time:  8b3e08b1  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8ba1afbe  (HEX)
+EXECUTION TIME:  24299  (DECIMAL)
+IO TIME:  1178986926  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  359399638  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  96   (DECIMAL)
+Input-Data Segment: JOBID: 00096   (HEX)
+0005   0bcd   0567   (HEX)
+Output-Data Segment: JOBID: 00096   (HEX)
+                     0000000100100011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e08b2  (HEX)
+JOB END time:  8b3e08c6  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  d1e85f8d  (HEX)
+EXECUTION TIME:  24304  (DECIMAL)
+IO TIME:  1178986942  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 98job-id: 95job-id: 97job-id: 94JobID:  95   (DECIMAL)
+Input-Data Segment: JOBID: 00095   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00095   (HEX)
+                     0000000000000100    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e08c7  (HEX)
+JOB END time:  8b3e093f  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  182f0fd5  (HEX)
+EXECUTION TIME:  24409  (DECIMAL)
+IO TIME:  1178986958  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  120  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 97job-id: 94JobID:  95   (DECIMAL)
+Input-Data Segment: JOBID: 00095   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00095   (HEX)
+                     0000000000000110    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e0941  (HEX)
+JOB END time:  8b3e09b9  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  5e75c097  (HEX)
+EXECUTION TIME:  24515  (DECIMAL)
+IO TIME:  1178986974  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  95   (DECIMAL)
+Input-Data Segment: JOBID: 00095   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00095   (HEX)
+                     0000000000001000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e09ba  (HEX)
+JOB END time:  8b3e0a32  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  a4bc71d2  (HEX)
+EXECUTION TIME:  24620  (DECIMAL)
+IO TIME:  1178986990  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  95   (DECIMAL)
+Input-Data Segment: JOBID: 00095   (HEX)
+000b   (HEX)
+Output-Data Segment: JOBID: 00095   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e0a33  (HEX)
+JOB END time:  8b3e0aab  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  eb032386  (HEX)
+EXECUTION TIME:  24725  (DECIMAL)
+IO TIME:  1178987006  (DECIMAL)
+Page-fault handling time: 13190 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  120  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  100   (DECIMAL)
+Input-Data Segment: JOBID: 000100   (HEX)
+0015   (HEX)
+Output-Data Segment: JOBID: 000100   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  8b3e0b49  (HEX)
+JOB END time:  224dbe59  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  1c4cfbcb  (HEX)
+EXECUTION TIME:  24972  (DECIMAL)
+IO TIME:  826871204  (DECIMAL)
+Page-fault handling time: 13440 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1760578800  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  99   (DECIMAL)
+Input-Data Segment: JOBID: 00099   (HEX)
+000a   0010   (HEX)
+Output-Data Segment: JOBID: 00099   (HEX)
+                     0000000000001010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  224dbe59  (HEX)
+JOB END time:  afceab54  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  a27dca87  (HEX)
+EXECUTION TIME:  25158  (DECIMAL)
+IO TIME:  -2043674299  (DECIMAL)
+Page-fault handling time: 13710 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1920930565  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 98job-id: 97job-id: 99job-id: 100job-id: 99JobID:  98   (DECIMAL)
+Input-Data Segment: JOBID: 00098   (HEX)
+001a   (HEX)
+Output-Data Segment: JOBID: 00098   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  afceab54  (HEX)
+JOB END time:  39c5d628  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  6daa2f63  (HEX)
+EXECUTION TIME:  25204  (DECIMAL)
+IO TIME:  -886335869  (DECIMAL)
+Page-fault handling time: 13800 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1980290348  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  99   (DECIMAL)
+Input-Data Segment: JOBID: 00099   (HEX)
+000a   0010   (HEX)
+Output-Data Segment: JOBID: 00099   (HEX)
+                     0000000000001111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f06e9518  (HEX)
+JOB END time:  f06e952c  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  142af53b  (HEX)
+EXECUTION TIME:  25342  (DECIMAL)
+IO TIME:  -1501563527  (DECIMAL)
+Page-fault handling time: 13990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  99   (DECIMAL)
+Input-Data Segment: JOBID: 00099   (HEX)
+000a   0010   (HEX)
+Output-Data Segment: JOBID: 00099   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f06e952d  (HEX)
+JOB END time:  f06e9541  (HEX)
+NUMBER of PAGE FAULTS:  6   (DECIMAL)CLOCK:  baabbb29  (HEX)
+EXECUTION TIME:  25348  (DECIMAL)
+IO TIME:  -1501563511  (DECIMAL)
+Page-fault handling time: 13990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  20  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  104   (DECIMAL)
+Input-Data Segment: JOBID: 000104   (HEX)
+0089   (HEX)
+Output-Data Segment: JOBID: 000104   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  f06e9592  (HEX)
+JOB END time:  b20b561  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  1bd83f3d  (HEX)
+EXECUTION TIME:  25581  (DECIMAL)
+IO TIME:  1630253266  (DECIMAL)
+Page-fault handling time: 14240 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  447881167  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  b20b561  (HEX)
+JOB END time:  26f8f526  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  98dd0354  (HEX)
+EXECUTION TIME:  25627  (DECIMAL)
+IO TIME:  2097410095  (DECIMAL)
+Page-fault handling time: 14300 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  467156933  (DECIMAL)
+
+
+-----------------------------------------------
+job-id: 104job-id: 101job-id: 107job-id: 104JobID:  101   (DECIMAL)
+Input-Data Segment: JOBID: 000101   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 000101   (HEX)
+                     0000000000010000    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  26f8f526  (HEX)
+JOB END time:  86be143c  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  aebecc51  (HEX)
+EXECUTION TIME:  25777  (DECIMAL)
+IO TIME:  367063971  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1606754070  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  101   (DECIMAL)
+Input-Data Segment: JOBID: 000101   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 000101   (HEX)
+                     0000000000111101    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  26f8f526  (HEX)
+JOB END time:  86be144c  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  c4a0955e  (HEX)
+EXECUTION TIME:  25777  (DECIMAL)
+IO TIME:  367063987  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1606754086  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  86be144d  (HEX)
+JOB END time:  4b5ea9f0  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  da825eb2  (HEX)
+EXECUTION TIME:  25832  (DECIMAL)
+IO TIME:  367064003  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -996108893  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  4b5eaa00  (HEX)
+JOB END time:  25e1414c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f06460b2  (HEX)
+EXECUTION TIME:  25887  (DECIMAL)
+IO TIME:  367064035  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -628975796  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  25e1414c  (HEX)
+JOB END time:  1645a243  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6462aa3  (HEX)
+EXECUTION TIME:  25941  (DECIMAL)
+IO TIME:  367064051  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -261857033  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1645a243  (HEX)
+JOB END time:  1c8bcd2b  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  1c27f4da  (HEX)
+EXECUTION TIME:  25995  (DECIMAL)
+IO TIME:  367064067  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  105261800  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  1c8bcd2b  (HEX)
+JOB END time:  38b3c24a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  3209bf57  (HEX)
+EXECUTION TIME:  26049  (DECIMAL)
+IO TIME:  367064083  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  472380703  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  38b3c24a  (HEX)
+JOB END time:  6abd81e6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  47eb8a1a  (HEX)
+EXECUTION TIME:  26103  (DECIMAL)
+IO TIME:  367064099  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  839499676  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  6abd81e6  (HEX)
+JOB END time:  b2a90c45  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  5dcd5523  (HEX)
+EXECUTION TIME:  26157  (DECIMAL)
+IO TIME:  367064115  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1206618719  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  b2a90c45  (HEX)
+JOB END time:  107661ad  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  73af2072  (HEX)
+EXECUTION TIME:  26211  (DECIMAL)
+IO TIME:  367064131  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1573737832  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  107661ad  (HEX)
+JOB END time:  84258264  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  8990ec07  (HEX)
+EXECUTION TIME:  26265  (DECIMAL)
+IO TIME:  367064147  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1940857015  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  84258264  (HEX)
+JOB END time:  db66eb0  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  9f72b7e2  (HEX)
+EXECUTION TIME:  26319  (DECIMAL)
+IO TIME:  367064163  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1986991028  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  db66eb0  (HEX)
+JOB END time:  ad2926d7  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  b5548403  (HEX)
+EXECUTION TIME:  26373  (DECIMAL)
+IO TIME:  367064179  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1619871705  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ad2926d7  (HEX)
+JOB END time:  627dab1f  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  cb36506a  (HEX)
+EXECUTION TIME:  26427  (DECIMAL)
+IO TIME:  367064195  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1252752312  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  627dab1f  (HEX)
+JOB END time:  2db3fbce  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e1181d17  (HEX)
+EXECUTION TIME:  26481  (DECIMAL)
+IO TIME:  367064211  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -885632849  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  2db3fbce  (HEX)
+JOB END time:  ecc192a  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f6f9ea0a  (HEX)
+EXECUTION TIME:  26535  (DECIMAL)
+IO TIME:  367064227  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -518513316  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  102   (DECIMAL)
+Input-Data Segment: JOBID: 000102   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 000102   (HEX)
+                     0000000000000001    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  ecc192a  (HEX)
+JOB END time:  5c60379  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  cdbb743  (HEX)
+EXECUTION TIME:  26589  (DECIMAL)
+IO TIME:  367064243  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -151393713  (DECIMAL)
+
+
+-----------------------------------------------
+JobID:  105   (DECIMAL)
+Input-Data Segment: JOBID: 000105   (HEX)
+0017   0002   (HEX)
+Output-Data Segment: JOBID: 000105   (HEX)
+                     0000000000010111    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  12a1baea  (HEX)
+JOB END time:  5fc807b4  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  4950ac77  (HEX)
+EXECUTION TIME:  26687  (DECIMAL)
+IO TIME:  1014241980  (DECIMAL)
+Page-fault handling time: 14610 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  1294355658  (DECIMAL)
+
+
+-----------------------------------------------
+
+
+
+CLOCK:  4950ac77  (HEX)
+Number of Jobs Processed:   91   (DECIMAL)
+CPU TIME    min:   0  avg:  98   max: 197   (DECIMAL)
+TURN AROUND TIME  min: 424 avg: 1250 max: 2077  (DECIMAL)
+CODE SEG SIZE:    min:   4  avg:  54   max: 105  (DECIMAL)
+INPUT SEG SIZE:    min:   1  avg:  4   max: 8  (DECIMAL)
+OUTPUT SEG SIZE:    min:   0  avg:  8   max: 16  (DECIMAL)
+NUMBER OF JOBS TERMINATED NORMALLY:  91 (DECIMAL)
+NUMBER OF JOBS TERMINATED ABNORMALLY:  14 (DECIMAL)
+ID OF JOBS CONSIDERED INFINITE: 56  57  85  
+MEAN NUMBER of PAGE FAULTS:  0   (DECIMAL)
+MEAN DISK UTILIZATION:  12.2 (%)
+MEAN MEMORY UTILIZATION:  89.0 (%)
+Time:    19308JobID:  105   (DECIMAL)
+Input-Data Segment: JOBID: 000105   (HEX)
+0017   0002   (HEX)
+Output-Data Segment: JOBID: 000105   (HEX)
+                     0000000000000010    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5fc807b4  (HEX)
+JOB END time:  5fc807c4  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  85c5a1bc  (HEX)
+EXECUTION TIME:  26688  (DECIMAL)
+IO TIME:  1014241996  (DECIMAL)
+Page-fault handling time: 14610 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+
+
+
+CLOCK:  85c5a1bc  (HEX)
+Number of Jobs Processed:   91   (DECIMAL)
+CPU TIME    min:   0  avg:  98   max: 197   (DECIMAL)
+TURN AROUND TIME  min: 424 avg: 1250 max: 2077  (DECIMAL)
+CODE SEG SIZE:    min:   4  avg:  54   max: 105  (DECIMAL)
+INPUT SEG SIZE:    min:   1  avg:  4   max: 8  (DECIMAL)
+OUTPUT SEG SIZE:    min:   0  avg:  8   max: 16  (DECIMAL)
+NUMBER OF JOBS TERMINATED NORMALLY:  91 (DECIMAL)
+NUMBER OF JOBS TERMINATED ABNORMALLY:  14 (DECIMAL)
+ID OF JOBS CONSIDERED INFINITE: 56  57  85  
+MEAN NUMBER of PAGE FAULTS:  0   (DECIMAL)
+MEAN DISK UTILIZATION:  12.2 (%)
+MEAN MEMORY UTILIZATION:  89.0 (%)
+Time:    19317JobID:  105   (DECIMAL)
+Input-Data Segment: JOBID: 000105   (HEX)
+0017   0002   (HEX)
+Output-Data Segment: JOBID: 000105   (HEX)
+                     0000000000010011    (BIN)
+TERMINATION:  NORMAL
+JOB START time:  5fc807c4  (HEX)
+JOB END time:  5fc807d4  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  c23a9712  (HEX)
+EXECUTION TIME:  26689  (DECIMAL)
+IO TIME:  1014242012  (DECIMAL)
+Page-fault handling time: 14610 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+-----------------------------------------------
+
+
+
+CLOCK:  c23a9712  (HEX)
+Number of Jobs Processed:   91   (DECIMAL)
+CPU TIME    min:   0  avg:  98   max: 197   (DECIMAL)
+TURN AROUND TIME  min: 424 avg: 1250 max: 2077  (DECIMAL)
+CODE SEG SIZE:    min:   4  avg:  54   max: 105  (DECIMAL)
+INPUT SEG SIZE:    min:   1  avg:  4   max: 8  (DECIMAL)
+OUTPUT SEG SIZE:    min:   0  avg:  8   max: 16  (DECIMAL)
+NUMBER OF JOBS TERMINATED NORMALLY:  91 (DECIMAL)
+NUMBER OF JOBS TERMINATED ABNORMALLY:  14 (DECIMAL)
+ID OF JOBS CONSIDERED INFINITE: 56  57  85  
+MEAN NUMBER of PAGE FAULTS:  0   (DECIMAL)
+MEAN DISK UTILIZATION:  12.2 (%)
+MEAN MEMORY UTILIZATION:  89.0 (%)
+Time:    19328

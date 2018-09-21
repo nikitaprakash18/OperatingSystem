@@ -1,0 +1,239 @@
+JobID:  6   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 0006   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 0006   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  772e502  (HEX)
+JOB END time:  772e522  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  d90b61c  (HEX)
+EXECUTION TIME:  1221  (DECIMAL)
+IO TIME:  102616117  (DECIMAL)
+Page-fault handling time: 1320 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  32  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  22   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00022   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00022   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  fb4fd95b  (HEX)
+JOB END time:  fb4fd97b  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  1847b986  (HEX)
+EXECUTION TIME:  5487  (DECIMAL)
+IO TIME:  486001308  (DECIMAL)
+Page-fault handling time: 3170 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  32  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  25   (DECIMAL)
+Error: Maximum number of registers in stack cannot be more than 7
+Input-Data Segment: JOBID: 00025   (HEX)
+0006   (HEX)
+Output-Data Segment: JOBID: 00025   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  52de0db0  (HEX)
+JOB END time:  0  (HEX)
+NUMBER of PAGE FAULTS:  5   (DECIMAL)CLOCK:  208cee13  (HEX)
+EXECUTION TIME:  6642  (DECIMAL)
+IO TIME:  2107800246  (DECIMAL)
+Page-fault handling time: 3940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -1390284208  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  33   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00033   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00033   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  f64661f1  (HEX)
+JOB END time:  f6466201  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  10ab3eaa  (HEX)
+EXECUTION TIME:  9394  (DECIMAL)
+IO TIME:  442808311  (DECIMAL)
+Page-fault handling time: 5080 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  37   (DECIMAL)
+Error: Maximum number of registers in stack cannot be more than 7
+Input-Data Segment: JOBID: 00037   (HEX)
+0173   (HEX)
+Output-Data Segment: JOBID: 00037   (HEX)
+                     1111111111111110    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  14e7a3d  (HEX)
+JOB END time:  0  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  be9d438c  (HEX)
+EXECUTION TIME:  11579  (DECIMAL)
+IO TIME:  -5359679  (DECIMAL)
+Page-fault handling time: 5880 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -21920317  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  51   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00051   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00051   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  5af4d13c  (HEX)
+JOB END time:  5af4d14c  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  6bccea2e  (HEX)
+EXECUTION TIME:  13712  (DECIMAL)
+IO TIME:  282583890  (DECIMAL)
+Page-fault handling time: 7310 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  53   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00053   (HEX)
+0013   (HEX)
+Output-Data Segment: JOBID: 00053   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  87a73620  (HEX)
+JOB END time:  87a73640  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  3a0e0f5f  (HEX)
+EXECUTION TIME:  15163  (DECIMAL)
+IO TIME:  -1301897756  (DECIMAL)
+Page-fault handling time: 7920 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  32  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  64   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00064   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 00064   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  6a6e0052  (HEX)
+JOB END time:  6a6e0072  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  accd081a  (HEX)
+EXECUTION TIME:  16416  (DECIMAL)
+IO TIME:  1113507720  (DECIMAL)
+Page-fault handling time: 8820 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  32  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  73   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00073   (HEX)
+0005   (HEX)
+Output-Data Segment: JOBID: 00073   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  88ea5b81  (HEX)
+JOB END time:  88ea5b91  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  e32ec752  (HEX)
+EXECUTION TIME:  19726  (DECIMAL)
+IO TIME:  1514413747  (DECIMAL)
+Page-fault handling time: 10510 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  79   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00079   (HEX)
+000a   (HEX)
+Output-Data Segment: JOBID: 00079   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  7c8c7ac6  (HEX)
+JOB END time:  7c8c7ad6  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  f011d0a2  (HEX)
+EXECUTION TIME:  20223  (DECIMAL)
+IO TIME:  1938097869  (DECIMAL)
+Page-fault handling time: 10940 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  83   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00083   (HEX)
+001f   (HEX)
+Output-Data Segment: JOBID: 00083   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  ab8e1b88  (HEX)
+JOB END time:  ab8e1b98  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  8b6daa17  (HEX)
+EXECUTION TIME:  20706  (DECIMAL)
+IO TIME:  -539017827  (DECIMAL)
+Page-fault handling time: 11600 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  88   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 00088   (HEX)
+000e   (HEX)
+Output-Data Segment: JOBID: 00088   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  8bb85233  (HEX)
+JOB END time:  8bb85243  (HEX)
+NUMBER of PAGE FAULTS:  1   (DECIMAL)CLOCK:  a628cacf  (HEX)
+EXECUTION TIME:  21998  (DECIMAL)
+IO TIME:  443556510  (DECIMAL)
+Page-fault handling time: 12070 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  97   (DECIMAL)
+Error: Maximum number of registers in stack cannot be more than 7
+Input-Data Segment: JOBID: 00097   (HEX)
+0004   (HEX)
+Output-Data Segment: JOBID: 00097   (HEX)
+                     0000000000000101    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  39c5d628  (HEX)
+JOB END time:  0  (HEX)
+NUMBER of PAGE FAULTS:  4   (DECIMAL)CLOCK:  96eeed78  (HEX)
+EXECUTION TIME:  25336  (DECIMAL)
+IO TIME:  -1501563543  (DECIMAL)
+Page-fault handling time: 13990 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  -969266728  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------JobID:  101   (DECIMAL)
+Error: invalid Top of Stack value
+Input-Data Segment: JOBID: 000101   (HEX)
+0010   (HEX)
+Output-Data Segment: JOBID: 000101   (HEX)
+                     0000000000000000    (BIN)
+TERMINATION:  ABNORMAL
+JOB START time:  4b5ea9f0  (HEX)
+JOB END time:  4b5eaa00  (HEX)
+NUMBER of PAGE FAULTS:  2   (DECIMAL)CLOCK:  614002bc  (HEX)
+EXECUTION TIME:  25833  (DECIMAL)
+IO TIME:  367064019  (DECIMAL)
+Page-fault handling time: 14410 (DECIMAL)
+Segment-fault handling time: 10 (DECIMAL)
+Turn-around time:  16  (DECIMAL)
+
+
+---------------------------------------------------------------------------------------------
